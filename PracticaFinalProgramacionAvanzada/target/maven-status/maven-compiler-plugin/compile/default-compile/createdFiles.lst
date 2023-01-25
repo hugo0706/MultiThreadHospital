@@ -1,0 +1,16 @@
+recursos_compartidos\Log.class
+main_servidor\Hospital$1.class
+recursos_compartidos\SalaDescanso.class
+mvc_cliente\Interfaz_2.class
+main_servidor\Hospital.class
+mvc_cliente\ModeloCliente.class
+interfaz_servidor\Interfaz_1.class
+mvc_cliente\Controlador.class
+mvc_cliente\I_Interfaz.class
+main_cliente\Cliente.class
+recursos_compartidos\Recepcion.class
+hilos\Auxiliar1.class
+hilos\Auxiliar2.class
+recursos_compartidos\PuestoObservacion.class
+servidor\Servidor.class
+recursos_compartidos\SalaObservacion.class

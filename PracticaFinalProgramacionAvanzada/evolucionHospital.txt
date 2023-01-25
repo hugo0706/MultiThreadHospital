@@ -1,0 +1,1745 @@
+24/05/2021 13:09:10.054 Paciente P0001 será vacunado en el puesto 1 por S02
+24/05/2021 13:09:10.054 Sanitario S02 entrando a puesto 1
+24/05/2021 13:09:10.318 Sanitario S04 entrando a puesto 2
+24/05/2021 13:09:10.407 Sanitario S01 entrando a puesto 3
+24/05/2021 13:09:11.186 Sanitario S10 entrando a puesto 4
+24/05/2021 13:09:11.481 Sanitario S09 entrando a puesto 5
+24/05/2021 13:09:11.640 Sanitario S06 entrando a puesto 6
+24/05/2021 13:09:11.645 Sanitario S03 entrando a puesto 7
+24/05/2021 13:09:11.846 Sanitario S08 entrando a puesto 8
+24/05/2021 13:09:12.121 Sanitario S05 entrando a puesto 9
+24/05/2021 13:09:12.442 Sanitario S07 entrando a puesto 10
+24/05/2021 13:09:12.714 Paciente P0002 será vacunado en el puesto 2 por S04
+24/05/2021 13:09:14.275 Paciente P0003 será vacunado en el puesto 3 por S01
+24/05/2021 13:09:15.335 Paciente P0001 vacunado en el puesto 1 por S02
+24/05/2021 13:09:15.727 Paciente P0002 vacunado en el puesto 2 por S04
+24/05/2021 13:09:16.129 Paciente P0004 será vacunado en el puesto 4 por S10
+24/05/2021 13:09:19.421 Paciente P0003 vacunado en el puesto 3 por S01
+24/05/2021 13:09:19.611 Paciente P0004 vacunado en el puesto 4 por S10
+24/05/2021 13:09:20.169 Paciente P0005 será vacunado en el puesto 5 por S09
+24/05/2021 13:09:24.097 Paciente P0006 será vacunado en el puesto 6 por S06
+24/05/2021 13:09:24.171 Paciente P0005 vacunado en el puesto 5 por S09
+24/05/2021 13:09:24.454 Auxiliar A2 comienza su descanso
+24/05/2021 13:09:25.362 Paciente P0001 sale del hospital
+24/05/2021 13:09:26.022 Paciente P0002 sale del hospital
+24/05/2021 13:09:27.608 Paciente P0007 será vacunado en el puesto 7 por S03
+24/05/2021 13:09:28.555 Paciente P0006 vacunado en el puesto 6 por S06
+24/05/2021 13:09:28.642 Paciente P0008 será vacunado en el puesto 8 por S08
+24/05/2021 13:09:29.559 Paciente P0003 sufre una reaccion y espera sanitario. Puesto: 3
+24/05/2021 13:09:29.617 Paciente P0004 sale del hospital
+24/05/2021 13:09:31.225 Paciente P0009 será vacunado en el puesto 9 por S05
+24/05/2021 13:09:32.309 Paciente P0010 será vacunado en el puesto 10 por S07
+24/05/2021 13:09:32.311 Auxiliar A1 comienza su descanso
+24/05/2021 13:09:33.626 Paciente P0007 vacunado en el puesto 7 por S03
+24/05/2021 13:09:33.680 Paciente P0008 vacunado en el puesto 8 por S08
+24/05/2021 13:09:34.172 Paciente P0005 sale del hospital
+24/05/2021 13:09:36.071 Paciente P0009 vacunado en el puesto 9 por S05
+24/05/2021 13:09:36.386 Paciente P0011 será vacunado en el puesto 1 por S02
+24/05/2021 13:09:36.845 Paciente P0010 vacunado en el puesto 10 por S07
+24/05/2021 13:09:36.941 Paciente P0012 será vacunado en el puesto 2 por S04
+24/05/2021 13:09:37.928 Paciente P0013 será vacunado en el puesto 3 por S01
+24/05/2021 13:09:38.566 Paciente P0006 sale del hospital
+24/05/2021 13:09:39.250 Paciente P0014 será vacunado en el puesto 4 por S10
+24/05/2021 13:09:40.531 Paciente P0012 vacunado en el puesto 2 por S04
+24/05/2021 13:09:42.222 Auxiliar A2 comienza su descanso
+24/05/2021 13:09:42.331 Paciente P0015 será vacunado en el puesto 5 por S09
+24/05/2021 13:09:42.514 Paciente P0011 vacunado en el puesto 1 por S02
+24/05/2021 13:09:42.521 Paciente P0013 vacunado en el puesto 3 por S01
+24/05/2021 13:09:43.676 Paciente P0014 vacunado en el puesto 4 por S10
+24/05/2021 13:09:43.682 Paciente P0008 sale del hospital
+24/05/2021 13:09:43.730 Paciente P0007 sale del hospital
+24/05/2021 13:09:45.776 Paciente P0016 será vacunado en el puesto 6 por S06
+24/05/2021 13:09:46.072 Paciente P0009 sale del hospital
+24/05/2021 13:09:46.976 Paciente P0010 sale del hospital
+24/05/2021 13:09:47.639 Paciente P0015 vacunado en el puesto 5 por S09
+24/05/2021 13:09:48.986 Paciente P0017 será vacunado en el puesto 7 por S03
+24/05/2021 13:09:49.538 Paciente P0016 vacunado en el puesto 6 por S06
+24/05/2021 13:09:50.534 Paciente P0012 sale del hospital
+24/05/2021 13:09:52.389 Paciente P0018 será vacunado en el puesto 8 por S08
+24/05/2021 13:09:52.515 Paciente P0011 sale del hospital
+24/05/2021 13:09:52.522 Paciente P0013 sale del hospital
+24/05/2021 13:09:53.679 Paciente P0014 sale del hospital
+24/05/2021 13:09:53.735 Paciente P0017 vacunado en el puesto 7 por S03
+24/05/2021 13:09:55.506 Paciente P0019 será vacunado en el puesto 9 por S05
+24/05/2021 13:09:55.550 Paciente P0018 vacunado en el puesto 8 por S08
+24/05/2021 13:09:56.569 Paciente P0020 será vacunado en el puesto 10 por S07
+24/05/2021 13:09:56.569 Auxiliar A1 comienza su descanso
+24/05/2021 13:09:57.640 Paciente P0015 sale del hospital
+24/05/2021 13:09:58.825 Paciente P0019 vacunado en el puesto 9 por S05
+24/05/2021 13:09:59.213 Auxiliar A2 comienza su descanso
+24/05/2021 13:09:59.539 Paciente P0016 sale del hospital
+24/05/2021 13:10:00.629 Paciente P0020 vacunado en el puesto 10 por S07
+24/05/2021 13:10:00.729 Paciente P0021 será vacunado en el puesto 2 por S04
+24/05/2021 13:10:03.725 Paciente P0022 será vacunado en el puesto 1 por S02
+24/05/2021 13:10:03.736 Paciente P0017 sale del hospital
+24/05/2021 13:10:04.935 Paciente P0021 vacunado en el puesto 2 por S04
+24/05/2021 13:10:05.551 Paciente P0018 sale del hospital
+24/05/2021 13:10:07.098 Paciente P0023 será vacunado en el puesto 3 por S01
+24/05/2021 13:10:08.020 Paciente P0022 vacunado en el puesto 1 por S02
+24/05/2021 13:10:08.826 Paciente P0019 sale del hospital
+24/05/2021 13:10:10.236 Paciente P0024 ha acudido sin cita
+24/05/2021 13:10:10.629 Paciente P0020 sale del hospital
+24/05/2021 13:10:11.079 Paciente P0023 vacunado en el puesto 3 por S01
+24/05/2021 13:10:12.286 Paciente P0025 será vacunado en el puesto 4 por S10
+24/05/2021 13:10:14.726 Paciente P0026 será vacunado en el puesto 5 por S09
+24/05/2021 13:10:14.936 Paciente P0021 sale del hospital
+24/05/2021 13:10:17.466 Auxiliar A2 comienza su descanso
+24/05/2021 13:10:17.866 Paciente P0025 vacunado en el puesto 4 por S10
+24/05/2021 13:10:17.869 Paciente P0027 será vacunado en el puesto 6 por S06
+24/05/2021 13:10:18.022 Paciente P0022 sale del hospital
+24/05/2021 13:10:20.440 Paciente P0026 vacunado en el puesto 5 por S09
+24/05/2021 13:10:20.745 Paciente P0028 será vacunado en el puesto 7 por S03
+24/05/2021 13:10:21.115 Paciente P0023 sale del hospital
+24/05/2021 13:10:22.569 Paciente P0027 vacunado en el puesto 6 por S06
+24/05/2021 13:10:23.975 Paciente P0029 será vacunado en el puesto 8 por S08
+24/05/2021 13:10:24.165 Paciente P0028 vacunado en el puesto 7 por S03
+24/05/2021 13:10:26.053 Paciente P0030 será vacunado en el puesto 9 por S05
+24/05/2021 13:10:26.053 Auxiliar A1 comienza su descanso
+24/05/2021 13:10:27.869 Paciente P0025 sale del hospital
+24/05/2021 13:10:28.593 Paciente P0029 vacunado en el puesto 8 por S08
+24/05/2021 13:10:29.104 Paciente P0030 vacunado en el puesto 9 por S05
+24/05/2021 13:10:30.896 Paciente P0026 sale del hospital
+24/05/2021 13:10:31.958 Paciente P0031 será vacunado en el puesto 10 por S07
+24/05/2021 13:10:32.801 Paciente P0032 será vacunado en el puesto 2 por S04
+24/05/2021 13:10:33.311 Paciente P0027 sale del hospital
+24/05/2021 13:10:34.168 Paciente P0028 sale del hospital
+24/05/2021 13:10:34.596 Paciente P0033 será vacunado en el puesto 1 por S02
+24/05/2021 13:10:37.459 Paciente P0034 será vacunado en el puesto 3 por S01
+24/05/2021 13:10:37.594 Auxiliar A2 comienza su descanso
+24/05/2021 13:10:37.940 Paciente P0031 vacunado en el puesto 10 por S07
+24/05/2021 13:10:38.177 Paciente P0032 vacunado en el puesto 2 por S04
+24/05/2021 13:10:38.594 Paciente P0029 sale del hospital
+24/05/2021 13:10:38.863 Paciente P0033 vacunado en el puesto 1 por S02
+24/05/2021 13:10:39.105 Paciente P0030 sale del hospital
+24/05/2021 13:10:40.105 Paciente P0035 será vacunado en el puesto 4 por S10
+24/05/2021 13:10:42.390 Paciente P0036 será vacunado en el puesto 5 por S09
+24/05/2021 13:10:42.990 Paciente P0034 vacunado en el puesto 3 por S01
+24/05/2021 13:10:44.759 Paciente P0037 ha acudido sin cita
+24/05/2021 13:10:45.442 Paciente P0035 vacunado en el puesto 4 por S10
+24/05/2021 13:10:46.392 Paciente P0036 vacunado en el puesto 5 por S09
+24/05/2021 13:10:47.941 Paciente P0031 sale del hospital
+24/05/2021 13:10:48.099 Paciente P0038 será vacunado en el puesto 6 por S06
+24/05/2021 13:10:48.178 Paciente P0032 sale del hospital
+24/05/2021 13:10:48.865 Paciente P0033 sale del hospital
+24/05/2021 13:10:49.089 Paciente P0039 será vacunado en el puesto 7 por S03
+24/05/2021 13:10:51.002 Paciente P0040 será vacunado en el puesto 8 por S08
+24/05/2021 13:10:51.002 Auxiliar A1 comienza su descanso
+24/05/2021 13:10:52.241 Paciente P0038 vacunado en el puesto 6 por S06
+24/05/2021 13:10:52.990 Paciente P0034 sale del hospital
+24/05/2021 13:10:54.316 Paciente P0039 vacunado en el puesto 7 por S03
+24/05/2021 13:10:54.761 Auxiliar A2 comienza su descanso
+24/05/2021 13:10:55.442 Paciente P0035 sufre una reaccion y espera sanitario. Puesto: 15
+24/05/2021 13:10:55.566 Paciente P0041 será vacunado en el puesto 9 por S05
+24/05/2021 13:10:56.393 Paciente P0036 sale del hospital
+24/05/2021 13:10:56.609 Paciente P0040 vacunado en el puesto 8 por S08
+24/05/2021 13:10:56.670 Paciente P0042 será vacunado en el puesto 10 por S07
+24/05/2021 13:10:58.002 Paciente P0043 ha acudido sin cita
+24/05/2021 13:10:59.460 Paciente P0044 será vacunado en el puesto 2 por S04
+24/05/2021 13:11:00.643 Paciente P0041 vacunado en el puesto 9 por S05
+24/05/2021 13:11:01.197 Paciente P0045 será vacunado en el puesto 1 por S02
+24/05/2021 13:11:02.244 Paciente P0038 sale del hospital
+24/05/2021 13:11:02.667 Paciente P0042 vacunado en el puesto 10 por S07
+24/05/2021 13:11:02.729 Paciente P0044 vacunado en el puesto 2 por S04
+24/05/2021 13:11:03.151 Paciente P0046 será vacunado en el puesto 3 por S01
+24/05/2021 13:11:04.243 Paciente P0045 vacunado en el puesto 1 por S02
+24/05/2021 13:11:04.316 Paciente P0039 sale del hospital
+24/05/2021 13:11:05.870 Paciente P0047 será vacunado en el puesto 4 por S10
+24/05/2021 13:11:06.609 Paciente P0040 sale del hospital
+24/05/2021 13:11:07.668 Paciente P0046 vacunado en el puesto 3 por S01
+24/05/2021 13:11:09.142 Paciente P0048 será vacunado en el puesto 5 por S09
+24/05/2021 13:11:10.177 Paciente P0047 vacunado en el puesto 4 por S10
+24/05/2021 13:11:10.643 Paciente P0041 sale del hospital
+24/05/2021 13:11:11.898 Paciente P0049 será vacunado en el puesto 6 por S06
+24/05/2021 13:11:12.668 Paciente P0042 sale del hospital
+24/05/2021 13:11:12.730 Paciente P0044 sale del hospital
+24/05/2021 13:11:13.420 Auxiliar A2 comienza su descanso
+24/05/2021 13:11:14.244 Paciente P0045 sale del hospital
+24/05/2021 13:11:14.454 Paciente P0050 será vacunado en el puesto 7 por S03
+24/05/2021 13:11:14.454 Auxiliar A1 comienza su descanso
+24/05/2021 13:11:14.869 Paciente P0048 vacunado en el puesto 5 por S09
+24/05/2021 13:11:17.135 Paciente P0049 vacunado en el puesto 6 por S06
+24/05/2021 13:11:17.668 Paciente P0046 sale del hospital
+24/05/2021 13:11:19.224 Paciente P0051 será vacunado en el puesto 8 por S08
+24/05/2021 13:11:19.797 Paciente P0050 vacunado en el puesto 7 por S03
+24/05/2021 13:11:20.010 Paciente P0052 será vacunado en el puesto 9 por S05
+24/05/2021 13:11:20.177 Paciente P0047 sale del hospital
+24/05/2021 13:11:21.104 Paciente P0053 será vacunado en el puesto 10 por S07
+24/05/2021 13:11:22.602 Paciente P0051 vacunado en el puesto 8 por S08
+24/05/2021 13:11:24.284 Paciente P0052 vacunado en el puesto 9 por S05
+24/05/2021 13:11:24.458 Paciente P0054 será vacunado en el puesto 2 por S04
+24/05/2021 13:11:24.941 Paciente P0048 sale del hospital
+24/05/2021 13:11:26.116 Paciente P0055 será vacunado en el puesto 1 por S02
+24/05/2021 13:11:26.473 Paciente P0053 vacunado en el puesto 10 por S07
+24/05/2021 13:11:27.140 Paciente P0049 sale del hospital
+24/05/2021 13:11:29.109 Paciente P0054 vacunado en el puesto 2 por S04
+24/05/2021 13:11:29.865 Paciente P0056 será vacunado en el puesto 3 por S01
+24/05/2021 13:11:29.943 Paciente P0055 vacunado en el puesto 1 por S02
+24/05/2021 13:11:30.174 Paciente P0050 sale del hospital
+24/05/2021 13:11:32.098 Paciente P0057 será vacunado en el puesto 4 por S10
+24/05/2021 13:11:32.741 Paciente P0051 sale del hospital
+24/05/2021 13:11:32.881 Auxiliar A2 comienza su descanso
+24/05/2021 13:11:34.286 Paciente P0052 sale del hospital
+24/05/2021 13:11:35.205 Paciente P0056 vacunado en el puesto 3 por S01
+24/05/2021 13:11:35.726 Paciente P0058 será vacunado en el puesto 5 por S09
+24/05/2021 13:11:36.475 Paciente P0053 sale del hospital
+24/05/2021 13:11:38.340 Paciente P0057 vacunado en el puesto 4 por S10
+24/05/2021 13:11:39.042 Paciente P0059 será vacunado en el puesto 6 por S06
+24/05/2021 13:11:39.150 Paciente P0054 sale del hospital
+24/05/2021 13:11:40.343 Paciente P0055 sale del hospital
+24/05/2021 13:11:40.571 Paciente P0058 vacunado en el puesto 5 por S09
+24/05/2021 13:11:40.767 Paciente P0060 será vacunado en el puesto 7 por S03
+24/05/2021 13:11:40.767 Auxiliar A1 comienza su descanso
+24/05/2021 13:11:44.570 Paciente P0059 vacunado en el puesto 6 por S06
+24/05/2021 13:11:45.207 Paciente P0056 sale del hospital
+24/05/2021 13:11:45.388 Paciente P0060 vacunado en el puesto 7 por S03
+24/05/2021 13:11:46.550 Paciente P0061 será vacunado en el puesto 8 por S08
+24/05/2021 13:11:47.129 Paciente P0062 será vacunado en el puesto 9 por S05
+24/05/2021 13:11:47.687 Paciente P0063 será vacunado en el puesto 10 por S07
+24/05/2021 13:11:48.345 Paciente P0057 sale del hospital
+24/05/2021 13:11:49.803 Paciente P0061 vacunado en el puesto 8 por S08
+24/05/2021 13:11:50.697 Paciente P0058 sale del hospital
+24/05/2021 13:11:51.062 Paciente P0064 será vacunado en el puesto 2 por S04
+24/05/2021 13:11:51.067 Auxiliar A2 comienza su descanso
+24/05/2021 13:11:51.320 Paciente P0063 vacunado en el puesto 10 por S07
+24/05/2021 13:11:52.621 Paciente P0062 vacunado en el puesto 9 por S05
+24/05/2021 13:11:53.425 Paciente P0065 será vacunado en el puesto 1 por S02
+24/05/2021 13:11:55.286 Paciente P0059 sale del hospital
+24/05/2021 13:11:55.390 Paciente P0060 sale del hospital
+24/05/2021 13:11:56.851 Paciente P0064 vacunado en el puesto 2 por S04
+24/05/2021 13:11:57.081 Paciente P0066 será vacunado en el puesto 3 por S01
+24/05/2021 13:11:58.642 Paciente P0065 vacunado en el puesto 1 por S02
+24/05/2021 13:11:58.976 Paciente P0067 será vacunado en el puesto 4 por S10
+24/05/2021 13:11:59.805 Paciente P0061 sale del hospital
+24/05/2021 13:12:00.327 Paciente P0066 vacunado en el puesto 3 por S01
+24/05/2021 13:12:01.464 Paciente P0068 será vacunado en el puesto 5 por S09
+24/05/2021 13:12:01.584 Paciente P0063 sale del hospital
+24/05/2021 13:12:02.657 Paciente P0062 sale del hospital
+24/05/2021 13:12:02.753 Paciente P0067 vacunado en el puesto 4 por S10
+24/05/2021 13:12:05.178 Paciente P0069 será vacunado en el puesto 6 por S06
+24/05/2021 13:12:06.852 Paciente P0064 sale del hospital
+24/05/2021 13:12:06.981 Paciente P0068 vacunado en el puesto 5 por S09
+24/05/2021 13:12:08.086 Paciente P0070 será vacunado en el puesto 7 por S03
+24/05/2021 13:12:08.086 Auxiliar A1 comienza su descanso
+24/05/2021 13:12:08.643 Paciente P0065 sale del hospital
+24/05/2021 13:12:09.142 Auxiliar A2 comienza su descanso
+24/05/2021 13:12:10.010 Paciente P0069 vacunado en el puesto 6 por S06
+24/05/2021 13:12:10.330 Paciente P0066 sale del hospital
+24/05/2021 13:12:12.245 Paciente P0070 vacunado en el puesto 7 por S03
+24/05/2021 13:12:12.754 Paciente P0067 sale del hospital
+24/05/2021 13:12:14.813 Paciente P0071 será vacunado en el puesto 8 por S08
+24/05/2021 13:12:15.475 Paciente P0072 será vacunado en el puesto 10 por S07
+24/05/2021 13:12:16.575 Paciente P0073 será vacunado en el puesto 9 por S05
+24/05/2021 13:12:16.982 Paciente P0068 sale del hospital
+24/05/2021 13:12:18.679 Paciente P0074 será vacunado en el puesto 2 por S04
+24/05/2021 13:12:19.454 Paciente P0072 vacunado en el puesto 10 por S07
+24/05/2021 13:12:20.010 Paciente P0069 sale del hospital
+24/05/2021 13:12:20.209 Paciente P0073 vacunado en el puesto 9 por S05
+24/05/2021 13:12:20.457 Paciente P0075 será vacunado en el puesto 1 por S02
+24/05/2021 13:12:20.498 Paciente P0071 vacunado en el puesto 8 por S08
+24/05/2021 13:12:22.246 Paciente P0070 sale del hospital
+24/05/2021 13:12:22.341 Paciente P0074 vacunado en el puesto 2 por S04
+24/05/2021 13:12:24.649 Paciente P0076 será vacunado en el puesto 3 por S01
+24/05/2021 13:12:25.924 Paciente P0077 será vacunado en el puesto 4 por S10
+24/05/2021 13:12:26.003 Paciente P0075 vacunado en el puesto 1 por S02
+24/05/2021 13:12:26.548 Auxiliar A2 comienza su descanso
+24/05/2021 13:12:28.037 Paciente P0076 vacunado en el puesto 3 por S01
+24/05/2021 13:12:28.765 Paciente P0078 será vacunado en el puesto 5 por S09
+24/05/2021 13:12:29.456 Paciente P0072 sale del hospital
+24/05/2021 13:12:30.118 Paciente P0077 vacunado en el puesto 4 por S10
+24/05/2021 13:12:30.210 Paciente P0073 sale del hospital
+24/05/2021 13:12:30.499 Paciente P0071 sale del hospital
+24/05/2021 13:12:32.342 Paciente P0074 sale del hospital
+24/05/2021 13:12:32.399 Paciente P0079 será vacunado en el puesto 6 por S06
+24/05/2021 13:12:33.850 Paciente P0078 vacunado en el puesto 5 por S09
+24/05/2021 13:12:34.981 Paciente P0080 será vacunado en el puesto 7 por S03
+24/05/2021 13:12:34.981 Auxiliar A1 comienza su descanso
+24/05/2021 13:12:36.003 Paciente P0075 sale del hospital
+24/05/2021 13:12:37.968 Paciente P0079 vacunado en el puesto 6 por S06
+24/05/2021 13:12:38.038 Paciente P0076 sale del hospital
+24/05/2021 13:12:39.171 Paciente P0080 vacunado en el puesto 7 por S03
+24/05/2021 13:12:40.049 Paciente P0081 será vacunado en el puesto 10 por S07
+24/05/2021 13:12:40.119 Paciente P0077 sale del hospital
+24/05/2021 13:12:42.546 Paciente P0082 será vacunado en el puesto 9 por S05
+24/05/2021 13:12:43.851 Paciente P0078 sale del hospital
+24/05/2021 13:12:45.141 Auxiliar A2 comienza su descanso
+24/05/2021 13:12:45.202 Paciente P0083 será vacunado en el puesto 8 por S08
+24/05/2021 13:12:45.845 Paciente P0081 vacunado en el puesto 10 por S07
+24/05/2021 13:12:47.969 Paciente P0079 sale del hospital
+24/05/2021 13:12:48.430 Paciente P0082 vacunado en el puesto 9 por S05
+24/05/2021 13:12:48.900 Paciente P0084 será vacunado en el puesto 2 por S04
+24/05/2021 13:12:49.172 Paciente P0080 sale del hospital
+24/05/2021 13:12:49.965 Paciente P0085 será vacunado en el puesto 1 por S02
+24/05/2021 13:12:51.042 Paciente P0083 vacunado en el puesto 8 por S08
+24/05/2021 13:12:51.986 Paciente P0084 vacunado en el puesto 2 por S04
+24/05/2021 13:12:54.029 Paciente P0086 será vacunado en el puesto 3 por S01
+24/05/2021 13:12:54.258 Paciente P0085 vacunado en el puesto 1 por S02
+24/05/2021 13:12:55.262 Paciente P0087 será vacunado en el puesto 4 por S10
+24/05/2021 13:12:55.876 Paciente P0081 sale del hospital
+24/05/2021 13:12:57.709 Paciente P0086 vacunado en el puesto 3 por S01
+24/05/2021 13:12:57.897 Paciente P0088 será vacunado en el puesto 5 por S09
+24/05/2021 13:12:58.445 Paciente P0082 sale del hospital
+24/05/2021 13:12:59.184 Paciente P0087 vacunado en el puesto 4 por S10
+24/05/2021 13:13:01.068 Paciente P0083 sale del hospital
+24/05/2021 13:13:01.221 Paciente P0089 será vacunado en el puesto 6 por S06
+24/05/2021 13:13:01.996 Paciente P0084 sale del hospital
+24/05/2021 13:13:02.341 Auxiliar A2 comienza su descanso
+24/05/2021 13:13:02.417 Paciente P0088 vacunado en el puesto 5 por S09
+24/05/2021 13:13:04.267 Paciente P0085 sale del hospital
+24/05/2021 13:13:04.524 Paciente P0090 será vacunado en el puesto 7 por S03
+24/05/2021 13:13:04.528 Auxiliar A1 comienza su descanso
+24/05/2021 13:13:06.890 Paciente P0089 vacunado en el puesto 6 por S06
+24/05/2021 13:13:07.744 Paciente P0090 vacunado en el puesto 7 por S03
+24/05/2021 13:13:07.747 Paciente P0086 sale del hospital
+24/05/2021 13:13:08.834 Paciente P0091 será vacunado en el puesto 10 por S07
+24/05/2021 13:13:09.193 Paciente P0087 sale del hospital
+24/05/2021 13:13:09.452 Paciente P0092 será vacunado en el puesto 9 por S05
+24/05/2021 13:13:11.986 Paciente P0093 será vacunado en el puesto 8 por S08
+24/05/2021 13:13:12.418 Paciente P0088 sale del hospital
+24/05/2021 13:13:13.483 Paciente P0091 vacunado en el puesto 10 por S07
+24/05/2021 13:13:15.226 Paciente P0092 vacunado en el puesto 9 por S05
+24/05/2021 13:13:15.557 Paciente P0094 será vacunado en el puesto 2 por S04
+24/05/2021 13:13:16.891 Paciente P0089 sale del hospital
+24/05/2021 13:13:17.155 Paciente P0095 será vacunado en el puesto 1 por S02
+24/05/2021 13:13:17.182 Paciente P0093 vacunado en el puesto 8 por S08
+24/05/2021 13:13:17.765 Paciente P0090 sale del hospital
+24/05/2021 13:13:19.969 Paciente P0096 será vacunado en el puesto 3 por S01
+24/05/2021 13:13:21.325 Paciente P0094 vacunado en el puesto 2 por S04
+24/05/2021 13:13:21.940 Paciente P0095 vacunado en el puesto 1 por S02
+24/05/2021 13:13:22.786 Auxiliar A2 comienza su descanso
+24/05/2021 13:13:23.486 Paciente P0091 sale del hospital
+24/05/2021 13:13:23.615 Paciente P0097 será vacunado en el puesto 4 por S10
+24/05/2021 13:13:24.423 Paciente P0096 vacunado en el puesto 3 por S01
+24/05/2021 13:13:24.738 Paciente P0098 será vacunado en el puesto 5 por S09
+24/05/2021 13:13:25.228 Paciente P0092 sale del hospital
+24/05/2021 13:13:27.187 Paciente P0093 sale del hospital
+24/05/2021 13:13:27.563 Paciente P0099 será vacunado en el puesto 6 por S06
+24/05/2021 13:13:28.565 Paciente P0097 vacunado en el puesto 4 por S10
+24/05/2021 13:13:30.059 Paciente P0100 será vacunado en el puesto 7 por S03
+24/05/2021 13:13:30.059 Auxiliar A1 comienza su descanso
+24/05/2021 13:13:30.270 Paciente P0098 vacunado en el puesto 5 por S09
+24/05/2021 13:13:31.197 Paciente P0099 vacunado en el puesto 6 por S06
+24/05/2021 13:13:31.339 Paciente P0094 sale del hospital
+24/05/2021 13:13:31.971 Paciente P0095 sale del hospital
+24/05/2021 13:13:34.431 Paciente P0096 sufre una reaccion y espera sanitario. Puesto: 20
+24/05/2021 13:13:34.651 Paciente P0100 vacunado en el puesto 7 por S03
+24/05/2021 13:13:36.406 Paciente P0101 será vacunado en el puesto 10 por S07
+24/05/2021 13:13:37.017 Paciente P0102 será vacunado en el puesto 9 por S05
+24/05/2021 13:13:37.531 Paciente P0103 será vacunado en el puesto 8 por S08
+24/05/2021 13:13:38.566 Paciente P0097 sale del hospital
+24/05/2021 13:13:39.028 Paciente P0104 será vacunado en el puesto 2 por S04
+24/05/2021 13:13:40.008 Paciente P0101 vacunado en el puesto 10 por S07
+24/05/2021 13:13:40.183 Paciente P0102 vacunado en el puesto 9 por S05
+24/05/2021 13:13:40.278 Paciente P0098 sale del hospital
+24/05/2021 13:13:40.533 Paciente P0105 será vacunado en el puesto 1 por S02
+24/05/2021 13:13:41.218 Paciente P0099 sale del hospital
+24/05/2021 13:13:41.219 Auxiliar A2 comienza su descanso
+24/05/2021 13:13:42.328 Paciente P0106 será vacunado en el puesto 3 por S01
+24/05/2021 13:13:42.514 Paciente P0103 vacunado en el puesto 8 por S08
+24/05/2021 13:13:42.763 Paciente P0104 vacunado en el puesto 2 por S04
+24/05/2021 13:13:43.714 Paciente P0105 vacunado en el puesto 1 por S02
+24/05/2021 13:13:43.844 Paciente P0107 será vacunado en el puesto 4 por S10
+24/05/2021 13:13:44.655 Paciente P0100 sale del hospital
+24/05/2021 13:13:46.648 Paciente P0108 ha acudido sin cita
+24/05/2021 13:13:47.073 Paciente P0106 vacunado en el puesto 3 por S01
+24/05/2021 13:13:48.274 Paciente P0107 vacunado en el puesto 4 por S10
+24/05/2021 13:13:49.706 Paciente P0109 será vacunado en el puesto 5 por S09
+24/05/2021 13:13:50.018 Paciente P0101 sale del hospital
+24/05/2021 13:13:50.198 Paciente P0102 sale del hospital
+24/05/2021 13:13:51.898 Paciente P0110 será vacunado en el puesto 6 por S06
+24/05/2021 13:13:51.899 Auxiliar A1 comienza su descanso
+24/05/2021 13:13:52.530 Paciente P0103 sufre una reaccion y espera sanitario. Puesto: 7
+24/05/2021 13:13:52.765 Paciente P0104 sufre una reaccion y espera sanitario. Puesto: 9
+24/05/2021 13:13:53.716 Paciente P0105 sufre una reaccion y espera sanitario. Puesto: 10
+24/05/2021 13:13:53.974 Paciente P0109 vacunado en el puesto 5 por S09
+24/05/2021 13:13:55.939 Paciente P0110 vacunado en el puesto 6 por S06
+24/05/2021 13:13:56.384 Paciente P0111 será vacunado en el puesto 7 por S03
+24/05/2021 13:13:57.084 Paciente P0106 sale del hospital
+24/05/2021 13:13:57.304 Paciente P0112 será vacunado en el puesto 10 por S07
+24/05/2021 13:13:58.301 Paciente P0107 sale del hospital
+24/05/2021 13:13:58.772 Paciente P0113 será vacunado en el puesto 9 por S05
+24/05/2021 13:13:59.132 Auxiliar A2 comienza su descanso
+24/05/2021 13:14:00.463 Paciente P0111 vacunado en el puesto 7 por S03
+24/05/2021 13:14:01.931 Paciente P0114 será vacunado en el puesto 8 por S08
+24/05/2021 13:14:01.953 Paciente P0113 vacunado en el puesto 9 por S05
+24/05/2021 13:14:03.165 Paciente P0112 vacunado en el puesto 10 por S07
+24/05/2021 13:14:03.975 Paciente P0109 sale del hospital
+24/05/2021 13:14:05.159 Paciente P0115 será vacunado en el puesto 2 por S04
+24/05/2021 13:14:05.941 Paciente P0110 sale del hospital
+24/05/2021 13:14:06.286 Paciente P0114 vacunado en el puesto 8 por S08
+24/05/2021 13:14:06.432 Paciente P0116 será vacunado en el puesto 1 por S02
+24/05/2021 13:14:08.990 Paciente P0115 vacunado en el puesto 2 por S04
+24/05/2021 13:14:09.792 Paciente P0117 será vacunado en el puesto 3 por S01
+24/05/2021 13:14:10.518 Paciente P0111 sale del hospital
+24/05/2021 13:14:11.568 Paciente P0116 vacunado en el puesto 1 por S02
+24/05/2021 13:14:11.954 Paciente P0113 sale del hospital
+24/05/2021 13:14:12.532 Paciente P0118 será vacunado en el puesto 4 por S10
+24/05/2021 13:14:13.167 Paciente P0112 sale del hospital
+24/05/2021 13:14:13.688 Auxiliar A2 comienza su descanso
+24/05/2021 13:14:14.258 Paciente P0119 será vacunado en el puesto 5 por S09
+24/05/2021 13:14:14.947 Paciente P0117 vacunado en el puesto 3 por S01
+24/05/2021 13:14:16.296 Paciente P0114 sale del hospital
+24/05/2021 13:14:16.405 Paciente P0118 vacunado en el puesto 4 por S10
+24/05/2021 13:14:17.666 Paciente P0120 será vacunado en el puesto 6 por S06
+24/05/2021 13:14:17.666 Auxiliar A1 comienza su descanso
+24/05/2021 13:14:18.180 Paciente P0119 vacunado en el puesto 5 por S09
+24/05/2021 13:14:18.998 Paciente P0115 sale del hospital
+24/05/2021 13:14:21.569 Paciente P0116 sale del hospital
+24/05/2021 13:14:23.383 Paciente P0120 vacunado en el puesto 6 por S06
+24/05/2021 13:14:24.328 Paciente P0121 será vacunado en el puesto 7 por S03
+24/05/2021 13:14:24.944 Paciente P0122 será vacunado en el puesto 9 por S05
+24/05/2021 13:14:24.963 Paciente P0117 sale del hospital
+24/05/2021 13:14:25.871 Paciente P0123 será vacunado en el puesto 10 por S07
+24/05/2021 13:14:26.418 Paciente P0118 sale del hospital
+24/05/2021 13:14:27.123 Paciente P0124 será vacunado en el puesto 8 por S08
+24/05/2021 13:14:28.182 Paciente P0119 sale del hospital
+24/05/2021 13:14:28.381 Paciente P0121 vacunado en el puesto 7 por S03
+24/05/2021 13:14:29.398 Paciente P0122 vacunado en el puesto 9 por S05
+24/05/2021 13:14:29.770 Paciente P0123 vacunado en el puesto 10 por S07
+24/05/2021 13:14:30.813 Paciente P0125 será vacunado en el puesto 2 por S04
+24/05/2021 13:14:32.477 Auxiliar A2 comienza su descanso
+24/05/2021 13:14:32.898 Paciente P0124 vacunado en el puesto 8 por S08
+24/05/2021 13:14:33.384 Paciente P0120 sufre una reaccion y espera sanitario. Puesto: 8
+24/05/2021 13:14:34.503 Paciente P0126 será vacunado en el puesto 1 por S02
+24/05/2021 13:14:35.064 Paciente P0125 vacunado en el puesto 2 por S04
+24/05/2021 13:14:37.790 Paciente P0127 será vacunado en el puesto 3 por S01
+24/05/2021 13:14:38.391 Paciente P0121 sale del hospital
+24/05/2021 13:14:38.899 Paciente P0126 vacunado en el puesto 1 por S02
+24/05/2021 13:14:39.410 Paciente P0122 sale del hospital
+24/05/2021 13:14:39.771 Paciente P0123 sale del hospital
+24/05/2021 13:14:41.253 Paciente P0128 será vacunado en el puesto 4 por S10
+24/05/2021 13:14:42.832 Paciente P0127 vacunado en el puesto 3 por S01
+24/05/2021 13:14:42.905 Paciente P0124 sufre una reaccion y espera sanitario. Puesto: 11
+24/05/2021 13:14:44.298 Paciente P0129 será vacunado en el puesto 5 por S09
+24/05/2021 13:14:45.069 Paciente P0125 sale del hospital
+24/05/2021 13:14:45.695 Paciente P0128 vacunado en el puesto 4 por S10
+24/05/2021 13:14:48.031 Paciente P0130 será vacunado en el puesto 6 por S06
+24/05/2021 13:14:48.031 Auxiliar A1 comienza su descanso
+24/05/2021 13:14:48.910 Paciente P0126 sale del hospital
+24/05/2021 13:14:49.255 Auxiliar A2 comienza su descanso
+24/05/2021 13:14:49.347 Paciente P0129 vacunado en el puesto 5 por S09
+24/05/2021 13:14:52.833 Paciente P0127 sale del hospital
+24/05/2021 13:14:53.461 Paciente P0130 vacunado en el puesto 6 por S06
+24/05/2021 13:14:53.634 Paciente P0131 será vacunado en el puesto 7 por S03
+24/05/2021 13:14:54.152 Paciente P0132 será vacunado en el puesto 9 por S05
+24/05/2021 13:14:55.696 Paciente P0128 sale del hospital
+24/05/2021 13:14:57.192 Paciente P0133 será vacunado en el puesto 10 por S07
+24/05/2021 13:14:59.358 Paciente P0129 sale del hospital
+24/05/2021 13:14:59.372 Paciente P0131 vacunado en el puesto 7 por S03
+24/05/2021 13:14:59.453 Paciente P0132 vacunado en el puesto 9 por S05
+24/05/2021 13:14:59.543 Paciente P0134 será vacunado en el puesto 8 por S08
+24/05/2021 13:15:00.833 Paciente P0133 vacunado en el puesto 10 por S07
+24/05/2021 13:15:01.351 Paciente P0135 será vacunado en el puesto 2 por S04
+24/05/2021 13:15:02.585 Paciente P0134 vacunado en el puesto 8 por S08
+24/05/2021 13:15:03.082 Paciente P0136 será vacunado en el puesto 1 por S02
+24/05/2021 13:15:03.462 Paciente P0130 sale del hospital
+24/05/2021 13:15:04.561 Paciente P0135 vacunado en el puesto 2 por S04
+24/05/2021 13:15:04.781 Auxiliar A2 comienza su descanso
+24/05/2021 13:15:04.903 Paciente P0137 será vacunado en el puesto 3 por S01
+24/05/2021 13:15:07.442 Paciente P0138 será vacunado en el puesto 4 por S10
+24/05/2021 13:15:08.021 Paciente P0136 vacunado en el puesto 1 por S02
+24/05/2021 13:15:09.373 Paciente P0131 sale del hospital
+24/05/2021 13:15:09.455 Paciente P0132 sale del hospital
+24/05/2021 13:15:10.230 Paciente P0139 será vacunado en el puesto 5 por S09
+24/05/2021 13:15:10.311 Paciente P0137 vacunado en el puesto 3 por S01
+24/05/2021 13:15:10.650 Paciente P0138 vacunado en el puesto 4 por S10
+24/05/2021 13:15:10.840 Paciente P0133 sale del hospital
+24/05/2021 13:15:11.513 Paciente P0140 será vacunado en el puesto 6 por S06
+24/05/2021 13:15:11.513 Auxiliar A1 comienza su descanso
+24/05/2021 13:15:12.588 Paciente P0134 sale del hospital
+24/05/2021 13:15:14.562 Paciente P0135 sale del hospital
+24/05/2021 13:15:15.149 Paciente P0139 vacunado en el puesto 5 por S09
+24/05/2021 13:15:16.266 Paciente P0140 vacunado en el puesto 6 por S06
+24/05/2021 13:15:17.528 Paciente P0141 será vacunado en el puesto 7 por S03
+24/05/2021 13:15:18.029 Paciente P0136 sale del hospital
+24/05/2021 13:15:18.397 Paciente P0142 será vacunado en el puesto 9 por S05
+24/05/2021 13:15:19.348 Paciente P0143 será vacunado en el puesto 10 por S07
+24/05/2021 13:15:20.317 Paciente P0137 sale del hospital
+24/05/2021 13:15:20.682 Paciente P0138 sale del hospital
+24/05/2021 13:15:21.202 Paciente P0144 será vacunado en el puesto 8 por S08
+24/05/2021 13:15:21.820 Paciente P0141 vacunado en el puesto 7 por S03
+24/05/2021 13:15:21.996 Paciente P0142 vacunado en el puesto 9 por S05
+24/05/2021 13:15:23.425 Auxiliar A2 comienza su descanso
+24/05/2021 13:15:24.699 Paciente P0145 será vacunado en el puesto 2 por S04
+24/05/2021 13:15:25.154 Paciente P0139 sale del hospital
+24/05/2021 13:15:25.258 Paciente P0143 vacunado en el puesto 10 por S07
+24/05/2021 13:15:25.456 Paciente P0144 vacunado en el puesto 8 por S08
+24/05/2021 13:15:25.599 Paciente P0146 será vacunado en el puesto 1 por S02
+24/05/2021 13:15:26.270 Paciente P0140 sale del hospital
+24/05/2021 13:15:28.367 Paciente P0147 será vacunado en el puesto 3 por S01
+24/05/2021 13:15:28.758 Paciente P0145 vacunado en el puesto 2 por S04
+24/05/2021 13:15:28.758 Sanitario S04 se va a descansar
+24/05/2021 13:15:30.194 Paciente P0146 vacunado en el puesto 1 por S02
+24/05/2021 13:15:30.194 Sanitario S02 se va a descansar
+24/05/2021 13:15:30.605 Paciente P0148 será vacunado en el puesto 4 por S10
+24/05/2021 13:15:31.822 Paciente P0141 sale del hospital
+24/05/2021 13:15:32.000 Paciente P0142 sale del hospital
+24/05/2021 13:15:33.647 Paciente P0147 vacunado en el puesto 3 por S01
+24/05/2021 13:15:33.648 Sanitario S01 se va a descansar
+24/05/2021 13:15:34.370 Paciente P0149 será vacunado en el puesto 5 por S09
+24/05/2021 13:15:35.401 Paciente P0143 sale del hospital
+24/05/2021 13:15:35.487 Paciente P0144 sale del hospital
+24/05/2021 13:15:35.968 Paciente P0148 vacunado en el puesto 4 por S10
+24/05/2021 13:15:35.968 Sanitario S10 se va a descansar
+24/05/2021 13:15:37.287 Paciente P0150 será vacunado en el puesto 6 por S06
+24/05/2021 13:15:37.287 Auxiliar A1 comienza su descanso
+24/05/2021 13:15:38.787 Paciente P0145 sale del hospital
+24/05/2021 13:15:39.673 Paciente P0003 ha sido atendido en el puesto 3 por S04
+24/05/2021 13:15:39.673 Paciente P0003 sale del hospital
+24/05/2021 13:15:39.673 Sanitario S04 entrando a puesto 2
+24/05/2021 13:15:40.082 Paciente P0149 vacunado en el puesto 5 por S09
+24/05/2021 13:15:40.083 Sanitario S09 se va a descansar
+24/05/2021 13:15:40.207 Paciente P0146 sale del hospital
+24/05/2021 13:15:40.539 Auxiliar A2 comienza su descanso
+24/05/2021 13:15:41.332 Sanitario S06 se va a descansar
+24/05/2021 13:15:41.332 Paciente P0150 vacunado en el puesto 6 por S06
+24/05/2021 13:15:41.925 Paciente P0151 será vacunado en el puesto 7 por S03
+24/05/2021 13:15:42.786 Paciente P0035 ha sido atendido en el puesto 15 por S02
+24/05/2021 13:15:42.786 Paciente P0035 sale del hospital
+24/05/2021 13:15:42.786 Sanitario S02 entrando a puesto 1
+24/05/2021 13:15:43.634 Paciente P0152 será vacunado en el puesto 9 por S05
+24/05/2021 13:15:43.647 Paciente P0147 sale del hospital
+24/05/2021 13:15:45.781 Paciente P0153 será vacunado en el puesto 10 por S07
+24/05/2021 13:15:45.988 Paciente P0148 sale del hospital
+24/05/2021 13:15:46.955 Paciente P0103 ha sido atendido en el puesto 7 por S10
+24/05/2021 13:15:46.955 Paciente P0103 sale del hospital
+24/05/2021 13:15:46.955 Sanitario S10 entrando a puesto 3
+24/05/2021 13:15:47.581 Paciente P0152 vacunado en el puesto 9 por S05
+24/05/2021 13:15:47.581 Sanitario S05 se va a descansar
+24/05/2021 13:15:47.755 Paciente P0151 vacunado en el puesto 7 por S03
+24/05/2021 13:15:47.755 Sanitario S03 se va a descansar
+24/05/2021 13:15:47.763 Sanitario S01 entrando a puesto 4
+24/05/2021 13:15:47.763 Paciente P0096 ha sido atendido en el puesto 20 por S01
+24/05/2021 13:15:47.763 Paciente P0096 sale del hospital
+24/05/2021 13:15:48.021 Sanitario S09 entrando a puesto 5
+24/05/2021 13:15:48.022 Paciente P0104 ha sido atendido en el puesto 9 por S09
+24/05/2021 13:15:48.022 Paciente P0104 sale del hospital
+24/05/2021 13:15:48.196 Paciente P0154 será vacunado en el puesto 8 por S08
+24/05/2021 13:15:49.106 Sanitario S07 se va a descansar
+24/05/2021 13:15:49.107 Paciente P0153 vacunado en el puesto 10 por S07
+24/05/2021 13:15:50.086 Paciente P0149 sale del hospital
+24/05/2021 13:15:50.512 Paciente P0155 será vacunado en el puesto 2 por S04
+24/05/2021 13:15:51.334 Paciente P0150 sale del hospital
+24/05/2021 13:15:52.687 Sanitario S06 entrando a puesto 6
+24/05/2021 13:15:52.687 Paciente P0105 ha sido atendido en el puesto 10 por S06
+24/05/2021 13:15:52.687 Paciente P0105 sale del hospital
+24/05/2021 13:15:53.712 Paciente P0156 será vacunado en el puesto 1 por S02
+24/05/2021 13:15:54.196 Paciente P0154 vacunado en el puesto 8 por S08
+24/05/2021 13:15:54.196 Sanitario S08 se va a descansar
+24/05/2021 13:15:54.247 Paciente P0155 vacunado en el puesto 2 por S04
+24/05/2021 13:15:56.975 Paciente P0157 será vacunado en el puesto 3 por S10
+24/05/2021 13:15:57.480 Sanitario S07 entrando a puesto 9
+24/05/2021 13:15:57.588 Paciente P0152 sale del hospital
+24/05/2021 13:15:57.757 Paciente P0151 sale del hospital
+24/05/2021 13:15:58.356 Paciente P0156 vacunado en el puesto 1 por S02
+24/05/2021 13:15:59.149 Paciente P0153 sale del hospital
+24/05/2021 13:16:00.059 Paciente P0158 será vacunado en el puesto 4 por S01
+24/05/2021 13:16:00.190 Sanitario S05 entrando a puesto 7
+24/05/2021 13:16:00.190 Paciente P0124 ha sido atendido en el puesto 11 por S05
+24/05/2021 13:16:00.190 Paciente P0124 sale del hospital
+24/05/2021 13:16:00.438 Paciente P0157 vacunado en el puesto 3 por S10
+24/05/2021 13:16:00.596 Auxiliar A2 comienza su descanso
+24/05/2021 13:16:00.973 Paciente P0120 ha sido atendido en el puesto 8 por S03
+24/05/2021 13:16:00.974 Paciente P0120 sale del hospital
+24/05/2021 13:16:00.973 Sanitario S03 entrando a puesto 10
+24/05/2021 13:16:01.871 Sanitario S08 entrando a puesto 8
+24/05/2021 13:16:02.317 Paciente P0159 será vacunado en el puesto 2 por S04
+24/05/2021 13:16:04.201 Paciente P0154 sale del hospital
+24/05/2021 13:16:04.250 Paciente P0155 sale del hospital
+24/05/2021 13:16:04.301 Paciente P0160 será vacunado en el puesto 5 por S09
+24/05/2021 13:16:04.301 Auxiliar A1 comienza su descanso
+24/05/2021 13:16:05.359 Paciente P0159 vacunado en el puesto 2 por S04
+24/05/2021 13:16:05.724 Paciente P0158 vacunado en el puesto 4 por S01
+24/05/2021 13:16:08.374 Paciente P0156 sale del hospital
+24/05/2021 13:16:09.873 Paciente P0160 vacunado en el puesto 5 por S09
+24/05/2021 13:16:10.447 Paciente P0157 sale del hospital
+24/05/2021 13:16:10.545 Paciente P0161 será vacunado en el puesto 6 por S06
+24/05/2021 13:16:11.203 Paciente P0162 será vacunado en el puesto 1 por S02
+24/05/2021 13:16:11.775 Paciente P0163 será vacunado en el puesto 3 por S10
+24/05/2021 13:16:12.735 Paciente P0164 será vacunado en el puesto 9 por S07
+24/05/2021 13:16:14.481 Paciente P0162 vacunado en el puesto 1 por S02
+24/05/2021 13:16:15.074 Paciente P0161 vacunado en el puesto 6 por S06
+24/05/2021 13:16:15.280 Paciente P0165 será vacunado en el puesto 7 por S05
+24/05/2021 13:16:15.372 Paciente P0159 sufre una reaccion y espera sanitario. Puesto: 12
+24/05/2021 13:16:15.678 Paciente P0163 vacunado en el puesto 3 por S10
+24/05/2021 13:16:15.725 Paciente P0158 sufre una reaccion y espera sanitario. Puesto: 3
+24/05/2021 13:16:18.002 Paciente P0164 vacunado en el puesto 9 por S07
+24/05/2021 13:16:18.500 Paciente P0165 vacunado en el puesto 7 por S05
+24/05/2021 13:16:18.523 Paciente P0166 será vacunado en el puesto 4 por S01
+24/05/2021 13:16:19.323 Auxiliar A2 comienza su descanso
+24/05/2021 13:16:19.502 Paciente P0167 ha acudido sin cita
+24/05/2021 13:16:19.898 Paciente P0160 sale del hospital
+24/05/2021 13:16:21.436 Paciente P0168 será vacunado en el puesto 5 por S09
+24/05/2021 13:16:23.063 Paciente P0166 vacunado en el puesto 4 por S01
+24/05/2021 13:16:23.871 Paciente P0169 será vacunado en el puesto 10 por S03
+24/05/2021 13:16:24.493 Paciente P0162 sale del hospital
+24/05/2021 13:16:25.079 Paciente P0161 sale del hospital
+24/05/2021 13:16:25.311 Paciente P0168 vacunado en el puesto 5 por S09
+24/05/2021 13:16:25.680 Paciente P0163 sale del hospital
+24/05/2021 13:16:27.628 Paciente P0170 será vacunado en el puesto 6 por S06
+24/05/2021 13:16:27.628 Auxiliar A1 comienza su descanso
+24/05/2021 13:16:28.011 Paciente P0164 sale del hospital
+24/05/2021 13:16:28.121 Paciente P0169 vacunado en el puesto 10 por S03
+24/05/2021 13:16:28.518 Paciente P0165 sale del hospital
+24/05/2021 13:16:31.314 Paciente P0170 vacunado en el puesto 6 por S06
+24/05/2021 13:16:32.860 Paciente P0171 será vacunado en el puesto 8 por S08
+24/05/2021 13:16:33.066 Paciente P0166 sale del hospital
+24/05/2021 13:16:33.614 Paciente P0172 será vacunado en el puesto 2 por S04
+24/05/2021 13:16:34.800 Paciente P0173 será vacunado en el puesto 9 por S07
+24/05/2021 13:16:35.329 Paciente P0168 sale del hospital
+24/05/2021 13:16:37.555 Paciente P0171 vacunado en el puesto 8 por S08
+24/05/2021 13:16:37.987 Paciente P0174 será vacunado en el puesto 1 por S02
+24/05/2021 13:16:38.167 Paciente P0169 sale del hospital
+24/05/2021 13:16:38.184 Paciente P0172 vacunado en el puesto 2 por S04
+24/05/2021 13:16:38.997 Paciente P0173 vacunado en el puesto 9 por S07
+24/05/2021 13:16:39.568 Auxiliar A2 comienza su descanso
+24/05/2021 13:16:41.315 Paciente P0170 sale del hospital
+24/05/2021 13:16:42.110 Paciente P0175 será vacunado en el puesto 7 por S05
+24/05/2021 13:16:43.183 Paciente P0176 será vacunado en el puesto 3 por S10
+24/05/2021 13:16:43.640 Paciente P0174 vacunado en el puesto 1 por S02
+24/05/2021 13:16:47.116 Paciente P0177 será vacunado en el puesto 10 por S03
+24/05/2021 13:16:47.559 Paciente P0171 sale del hospital
+24/05/2021 13:16:47.722 Paciente P0175 vacunado en el puesto 7 por S05
+24/05/2021 13:16:47.851 Paciente P0176 vacunado en el puesto 3 por S10
+24/05/2021 13:16:48.189 Paciente P0172 sale del hospital
+24/05/2021 13:16:48.265 Paciente P0178 será vacunado en el puesto 8 por S08
+24/05/2021 13:16:49.003 Paciente P0173 sale del hospital
+24/05/2021 13:16:50.160 Paciente P0179 será vacunado en el puesto 2 por S04
+24/05/2021 13:16:51.727 Paciente P0177 vacunado en el puesto 10 por S03
+24/05/2021 13:16:51.926 Paciente P0180 será vacunado en el puesto 4 por S01
+24/05/2021 13:16:51.926 Auxiliar A1 comienza su descanso
+24/05/2021 13:16:52.638 Paciente P0178 vacunado en el puesto 8 por S08
+24/05/2021 13:16:53.642 Paciente P0174 sale del hospital
+24/05/2021 13:16:54.417 Paciente P0179 vacunado en el puesto 2 por S04
+24/05/2021 13:16:57.347 Auxiliar A2 comienza su descanso
+24/05/2021 13:16:57.730 Paciente P0175 sale del hospital
+24/05/2021 13:16:57.782 Paciente P0180 vacunado en el puesto 4 por S01
+24/05/2021 13:16:57.879 Paciente P0176 sale del hospital
+24/05/2021 13:16:58.158 Paciente P0181 será vacunado en el puesto 5 por S09
+24/05/2021 13:16:58.994 Paciente P0182 será vacunado en el puesto 1 por S02
+24/05/2021 13:16:59.601 Paciente P0183 será vacunado en el puesto 6 por S06
+24/05/2021 13:17:00.326 Paciente P0184 será vacunado en el puesto 3 por S10
+24/05/2021 13:17:01.107 Paciente P0185 será vacunado en el puesto 9 por S07
+24/05/2021 13:17:01.748 Paciente P0177 sale del hospital
+24/05/2021 13:17:02.563 Paciente P0181 vacunado en el puesto 5 por S09
+24/05/2021 13:17:02.645 Paciente P0178 sale del hospital
+24/05/2021 13:17:03.564 Paciente P0184 vacunado en el puesto 3 por S10
+24/05/2021 13:17:03.984 Paciente P0182 vacunado en el puesto 1 por S02
+24/05/2021 13:17:04.418 Paciente P0179 sale del hospital
+24/05/2021 13:17:04.505 Paciente P0186 será vacunado en el puesto 7 por S05
+24/05/2021 13:17:05.399 Paciente P0183 vacunado en el puesto 6 por S06
+24/05/2021 13:17:05.924 Paciente P0185 vacunado en el puesto 9 por S07
+24/05/2021 13:17:07.802 Paciente P0180 sale del hospital
+24/05/2021 13:17:08.423 Paciente P0187 será vacunado en el puesto 4 por S01
+24/05/2021 13:17:09.214 Paciente P0186 vacunado en el puesto 7 por S05
+24/05/2021 13:17:10.029 Paciente P0188 será vacunado en el puesto 5 por S09
+24/05/2021 13:17:12.564 Paciente P0181 sale del hospital
+24/05/2021 13:17:13.184 Paciente P0187 vacunado en el puesto 4 por S01
+24/05/2021 13:17:13.580 Paciente P0184 sale del hospital
+24/05/2021 13:17:13.988 Paciente P0182 sale del hospital
+24/05/2021 13:17:14.000 Paciente P0189 será vacunado en el puesto 10 por S03
+24/05/2021 13:17:14.450 Auxiliar A2 comienza su descanso
+24/05/2021 13:17:15.432 Paciente P0183 sale del hospital
+24/05/2021 13:17:15.481 Paciente P0188 vacunado en el puesto 5 por S09
+24/05/2021 13:17:15.887 Paciente P0190 será vacunado en el puesto 6 por S06
+24/05/2021 13:17:15.887 Auxiliar A1 comienza su descanso
+24/05/2021 13:17:15.997 Paciente P0185 sale del hospital
+24/05/2021 13:17:17.514 Paciente P0189 vacunado en el puesto 10 por S03
+24/05/2021 13:17:19.216 Paciente P0186 sale del hospital
+24/05/2021 13:17:20.201 Paciente P0190 vacunado en el puesto 6 por S06
+24/05/2021 13:17:21.901 Paciente P0191 será vacunado en el puesto 8 por S08
+24/05/2021 13:17:22.768 Paciente P0192 será vacunado en el puesto 2 por S04
+24/05/2021 13:17:23.188 Paciente P0187 sale del hospital
+24/05/2021 13:17:23.746 Paciente P0193 será vacunado en el puesto 9 por S07
+24/05/2021 13:17:24.354 Paciente P0194 será vacunado en el puesto 1 por S02
+24/05/2021 13:17:25.417 Paciente P0191 vacunado en el puesto 8 por S08
+24/05/2021 13:17:25.503 Paciente P0188 sale del hospital
+24/05/2021 13:17:25.859 Paciente P0195 será vacunado en el puesto 7 por S05
+24/05/2021 13:17:27.138 Paciente P0193 vacunado en el puesto 9 por S07
+24/05/2021 13:17:27.546 Paciente P0189 sale del hospital
+24/05/2021 13:17:27.700 Paciente P0192 vacunado en el puesto 2 por S04
+24/05/2021 13:17:28.405 Paciente P0196 será vacunado en el puesto 3 por S10
+24/05/2021 13:17:29.757 Paciente P0195 vacunado en el puesto 7 por S05
+24/05/2021 13:17:29.809 Paciente P0197 será vacunado en el puesto 10 por S03
+24/05/2021 13:17:29.892 Paciente P0194 vacunado en el puesto 1 por S02
+24/05/2021 13:17:30.205 Paciente P0190 sale del hospital
+24/05/2021 13:17:32.485 Auxiliar A2 comienza su descanso
+24/05/2021 13:17:32.562 Paciente P0196 vacunado en el puesto 3 por S10
+24/05/2021 13:17:32.828 Paciente P0198 será vacunado en el puesto 8 por S08
+24/05/2021 13:17:34.077 Paciente P0197 vacunado en el puesto 10 por S03
+24/05/2021 13:17:35.423 Paciente P0191 sale del hospital
+24/05/2021 13:17:36.736 Paciente P0199 será vacunado en el puesto 2 por S04
+24/05/2021 13:17:37.170 Paciente P0193 sale del hospital
+24/05/2021 13:17:37.728 Paciente P0192 sale del hospital
+24/05/2021 13:17:38.750 Paciente P0198 vacunado en el puesto 8 por S08
+24/05/2021 13:17:39.764 Paciente P0195 sale del hospital
+24/05/2021 13:17:39.901 Paciente P0194 sale del hospital
+24/05/2021 13:17:40.076 Paciente P0200 será vacunado en el puesto 4 por S01
+24/05/2021 13:17:40.076 Auxiliar A1 comienza su descanso
+24/05/2021 13:17:41.317 Paciente P0199 vacunado en el puesto 2 por S04
+24/05/2021 13:17:42.579 Paciente P0196 sale del hospital
+24/05/2021 13:17:43.611 Paciente P0200 vacunado en el puesto 4 por S01
+24/05/2021 13:17:44.095 Paciente P0197 sale del hospital
+24/05/2021 13:17:45.538 Paciente P0201 será vacunado en el puesto 5 por S09
+24/05/2021 13:17:46.105 Paciente P0202 será vacunado en el puesto 3 por S10
+24/05/2021 13:17:47.079 Paciente P0203 será vacunado en el puesto 1 por S02
+24/05/2021 13:17:48.752 Paciente P0198 sale del hospital
+24/05/2021 13:17:49.168 Auxiliar A2 comienza su descanso
+24/05/2021 13:17:49.597 Paciente P0204 será vacunado en el puesto 6 por S06
+24/05/2021 13:17:49.801 Paciente P0201 vacunado en el puesto 5 por S09
+24/05/2021 13:17:51.319 Paciente P0199 sale del hospital
+24/05/2021 13:17:51.455 Paciente P0203 vacunado en el puesto 1 por S02
+24/05/2021 13:17:51.891 Paciente P0202 vacunado en el puesto 3 por S10
+24/05/2021 13:17:53.050 Paciente P0205 será vacunado en el puesto 9 por S07
+24/05/2021 13:17:53.634 Paciente P0200 sale del hospital
+24/05/2021 13:17:55.145 Paciente P0204 vacunado en el puesto 6 por S06
+24/05/2021 13:17:55.991 Paciente P0206 será vacunado en el puesto 7 por S05
+24/05/2021 13:17:57.860 Paciente P0207 será vacunado en el puesto 4 por S01
+24/05/2021 13:17:57.870 Paciente P0205 vacunado en el puesto 9 por S07
+24/05/2021 13:17:59.811 Paciente P0201 sale del hospital
+24/05/2021 13:18:01.296 Paciente P0206 vacunado en el puesto 7 por S05
+24/05/2021 13:18:01.463 Paciente P0203 sale del hospital
+24/05/2021 13:18:01.752 Paciente P0207 vacunado en el puesto 4 por S01
+24/05/2021 13:18:01.903 Paciente P0202 sale del hospital
+24/05/2021 13:18:01.944 Paciente P0208 será vacunado en el puesto 5 por S09
+24/05/2021 13:18:03.491 Paciente P0209 será vacunado en el puesto 10 por S03
+24/05/2021 13:18:05.152 Paciente P0204 sale del hospital
+24/05/2021 13:18:05.350 Paciente P0208 vacunado en el puesto 5 por S09
+24/05/2021 13:18:07.382 Paciente P0210 será vacunado en el puesto 6 por S06
+24/05/2021 13:18:07.382 Auxiliar A1 comienza su descanso
+24/05/2021 13:18:07.875 Paciente P0205 sale del hospital
+24/05/2021 13:18:08.050 Auxiliar A2 comienza su descanso
+24/05/2021 13:18:09.206 Paciente P0209 vacunado en el puesto 10 por S03
+24/05/2021 13:18:11.333 Paciente P0206 sale del hospital
+24/05/2021 13:18:11.752 Paciente P0207 sale del hospital
+24/05/2021 13:18:12.303 Paciente P0211 será vacunado en el puesto 8 por S08
+24/05/2021 13:18:12.395 Paciente P0210 vacunado en el puesto 6 por S06
+24/05/2021 13:18:13.193 Paciente P0212 será vacunado en el puesto 9 por S07
+24/05/2021 13:18:15.061 Paciente P0213 será vacunado en el puesto 2 por S04
+24/05/2021 13:18:15.365 Paciente P0208 sale del hospital
+24/05/2021 13:18:15.600 Paciente P0211 vacunado en el puesto 8 por S08
+24/05/2021 13:18:17.223 Paciente P0214 será vacunado en el puesto 7 por S05
+24/05/2021 13:18:17.747 Paciente P0212 vacunado en el puesto 9 por S07
+24/05/2021 13:18:19.217 Paciente P0209 sale del hospital
+24/05/2021 13:18:20.281 Paciente P0214 vacunado en el puesto 7 por S05
+24/05/2021 13:18:20.341 Paciente P0213 vacunado en el puesto 2 por S04
+24/05/2021 13:18:21.122 Paciente P0215 será vacunado en el puesto 1 por S02
+24/05/2021 13:18:22.397 Paciente P0210 sale del hospital
+24/05/2021 13:18:23.294 Paciente P0216 será vacunado en el puesto 3 por S10
+24/05/2021 13:18:24.963 Paciente P0215 vacunado en el puesto 1 por S02
+24/05/2021 13:18:25.605 Paciente P0211 sale del hospital
+24/05/2021 13:18:25.982 Paciente P0217 será vacunado en el puesto 10 por S03
+24/05/2021 13:18:26.964 Auxiliar A2 comienza su descanso
+24/05/2021 13:18:27.772 Paciente P0212 sale del hospital
+24/05/2021 13:18:28.762 Paciente P0216 vacunado en el puesto 3 por S10
+24/05/2021 13:18:29.572 Paciente P0217 vacunado en el puesto 10 por S03
+24/05/2021 13:18:29.621 Paciente P0218 será vacunado en el puesto 8 por S08
+24/05/2021 13:18:30.284 Paciente P0214 sale del hospital
+24/05/2021 13:18:30.368 Paciente P0213 sale del hospital
+24/05/2021 13:18:33.724 Paciente P0219 será vacunado en el puesto 2 por S04
+24/05/2021 13:18:34.967 Paciente P0215 sale del hospital
+24/05/2021 13:18:35.621 Paciente P0218 vacunado en el puesto 8 por S08
+24/05/2021 13:18:36.650 Paciente P0220 será vacunado en el puesto 4 por S01
+24/05/2021 13:18:36.650 Auxiliar A1 comienza su descanso
+24/05/2021 13:18:37.570 Paciente P0219 vacunado en el puesto 2 por S04
+24/05/2021 13:18:38.769 Paciente P0216 sale del hospital
+24/05/2021 13:18:39.577 Paciente P0217 sale del hospital
+24/05/2021 13:18:40.096 Paciente P0220 vacunado en el puesto 4 por S01
+24/05/2021 13:18:41.678 Paciente P0221 será vacunado en el puesto 5 por S09
+24/05/2021 13:18:42.464 Paciente P0222 será vacunado en el puesto 1 por S02
+24/05/2021 13:18:43.565 Paciente P0223 será vacunado en el puesto 3 por S10
+24/05/2021 13:18:45.175 Paciente P0224 será vacunado en el puesto 6 por S06
+24/05/2021 13:18:45.371 Auxiliar A2 comienza su descanso
+24/05/2021 13:18:45.662 Paciente P0218 sale del hospital
+24/05/2021 13:18:46.927 Paciente P0221 vacunado en el puesto 5 por S09
+24/05/2021 13:18:47.620 Paciente P0219 sale del hospital
+24/05/2021 13:18:48.015 Paciente P0222 vacunado en el puesto 1 por S02
+24/05/2021 13:18:48.202 Paciente P0223 vacunado en el puesto 3 por S10
+24/05/2021 13:18:48.957 Paciente P0225 será vacunado en el puesto 9 por S07
+24/05/2021 13:18:50.121 Paciente P0220 sale del hospital
+24/05/2021 13:18:50.153 Paciente P0224 vacunado en el puesto 6 por S06
+24/05/2021 13:18:50.413 Paciente P0226 será vacunado en el puesto 7 por S05
+24/05/2021 13:18:52.206 Paciente P0227 será vacunado en el puesto 4 por S01
+24/05/2021 13:18:54.486 Paciente P0226 vacunado en el puesto 7 por S05
+24/05/2021 13:18:54.665 Paciente P0228 será vacunado en el puesto 5 por S09
+24/05/2021 13:18:54.913 Paciente P0225 vacunado en el puesto 9 por S07
+24/05/2021 13:18:55.640 Paciente P0229 será vacunado en el puesto 10 por S03
+24/05/2021 13:18:56.818 Paciente P0227 vacunado en el puesto 4 por S01
+24/05/2021 13:18:56.935 Paciente P0221 sufre una reaccion y espera sanitario. Puesto: 20
+24/05/2021 13:18:58.030 Paciente P0222 sale del hospital
+24/05/2021 13:18:58.054 Paciente P0230 será vacunado en el puesto 6 por S06
+24/05/2021 13:18:58.055 Auxiliar A1 comienza su descanso
+24/05/2021 13:18:58.226 Paciente P0223 sale del hospital
+24/05/2021 13:18:58.861 Paciente P0228 vacunado en el puesto 5 por S09
+24/05/2021 13:18:59.126 Paciente P0229 vacunado en el puesto 10 por S03
+24/05/2021 13:19:00.213 Paciente P0224 sale del hospital
+24/05/2021 13:19:01.697 Auxiliar A2 comienza su descanso
+24/05/2021 13:19:01.816 Paciente P0231 será vacunado en el puesto 8 por S08
+24/05/2021 13:19:02.333 Paciente P0230 vacunado en el puesto 6 por S06
+24/05/2021 13:19:02.441 Paciente P0232 será vacunado en el puesto 9 por S07
+24/05/2021 13:19:04.442 Paciente P0233 será vacunado en el puesto 7 por S05
+24/05/2021 13:19:04.529 Paciente P0226 sale del hospital
+24/05/2021 13:19:04.937 Paciente P0225 sale del hospital
+24/05/2021 13:19:05.755 Paciente P0232 vacunado en el puesto 9 por S07
+24/05/2021 13:19:05.776 Paciente P0231 vacunado en el puesto 8 por S08
+24/05/2021 13:19:06.344 Paciente P0234 será vacunado en el puesto 2 por S04
+24/05/2021 13:19:06.824 Paciente P0227 sale del hospital
+24/05/2021 13:19:07.482 Paciente P0233 vacunado en el puesto 7 por S05
+24/05/2021 13:19:08.900 Paciente P0228 sale del hospital
+24/05/2021 13:19:09.136 Paciente P0229 sale del hospital
+24/05/2021 13:19:10.049 Paciente P0235 será vacunado en el puesto 1 por S02
+24/05/2021 13:19:11.138 Paciente P0234 vacunado en el puesto 2 por S04
+24/05/2021 13:19:12.017 Paciente P0236 será vacunado en el puesto 3 por S10
+24/05/2021 13:19:12.333 Paciente P0230 sale del hospital
+24/05/2021 13:19:14.370 Paciente P0235 vacunado en el puesto 1 por S02
+24/05/2021 13:19:15.365 Paciente P0237 será vacunado en el puesto 10 por S03
+24/05/2021 13:19:15.569 Paciente P0236 vacunado en el puesto 3 por S10
+24/05/2021 13:19:15.768 Paciente P0232 sale del hospital
+24/05/2021 13:19:15.780 Paciente P0231 sale del hospital
+24/05/2021 13:19:16.985 Paciente P0238 será vacunado en el puesto 8 por S08
+24/05/2021 13:19:17.483 Paciente P0233 sale del hospital
+24/05/2021 13:19:20.348 Auxiliar A2 comienza su descanso
+24/05/2021 13:19:20.483 Paciente P0239 será vacunado en el puesto 2 por S04
+24/05/2021 13:19:20.684 Paciente P0237 vacunado en el puesto 10 por S03
+24/05/2021 13:19:21.150 Paciente P0234 sale del hospital
+24/05/2021 13:19:21.493 Paciente P0238 vacunado en el puesto 8 por S08
+24/05/2021 13:19:23.174 Paciente P0240 será vacunado en el puesto 4 por S01
+24/05/2021 13:19:23.174 Auxiliar A1 comienza su descanso
+24/05/2021 13:19:24.378 Paciente P0235 sale del hospital
+24/05/2021 13:19:25.364 Paciente P0239 vacunado en el puesto 2 por S04
+24/05/2021 13:19:25.584 Paciente P0236 sale del hospital
+24/05/2021 13:19:27.373 Paciente P0241 ha acudido sin cita
+24/05/2021 13:19:28.098 Paciente P0240 vacunado en el puesto 4 por S01
+24/05/2021 13:19:28.483 Paciente P0242 será vacunado en el puesto 5 por S09
+24/05/2021 13:19:29.639 Paciente P0243 será vacunado en el puesto 1 por S02
+24/05/2021 13:19:30.689 Paciente P0237 sufre una reaccion y espera sanitario. Puesto: 7
+24/05/2021 13:19:31.498 Paciente P0238 sale del hospital
+24/05/2021 13:19:32.570 Paciente P0242 vacunado en el puesto 5 por S09
+24/05/2021 13:19:32.784 Paciente P0243 vacunado en el puesto 1 por S02
+24/05/2021 13:19:33.168 Paciente P0244 será vacunado en el puesto 3 por S10
+24/05/2021 13:19:35.377 Paciente P0239 sale del hospital
+24/05/2021 13:19:36.934 Paciente P0245 será vacunado en el puesto 6 por S06
+24/05/2021 13:19:37.607 Auxiliar A2 comienza su descanso
+24/05/2021 13:19:38.102 Paciente P0240 sale del hospital
+24/05/2021 13:19:38.587 Paciente P0244 vacunado en el puesto 3 por S10
+24/05/2021 13:19:40.047 Paciente P0245 vacunado en el puesto 6 por S06
+24/05/2021 13:19:40.652 Paciente P0246 será vacunado en el puesto 7 por S05
+24/05/2021 13:19:42.572 Paciente P0242 sale del hospital
+24/05/2021 13:19:42.785 Paciente P0243 sufre una reaccion y espera sanitario. Puesto: 1
+24/05/2021 13:19:43.097 Paciente P0247 será vacunado en el puesto 9 por S07
+24/05/2021 13:19:43.681 Paciente P0246 vacunado en el puesto 7 por S05
+24/05/2021 13:19:44.875 Paciente P0248 será vacunado en el puesto 4 por S01
+24/05/2021 13:19:46.601 Paciente P0247 vacunado en el puesto 9 por S07
+24/05/2021 13:19:48.409 Paciente P0249 será vacunado en el puesto 5 por S09
+24/05/2021 13:19:48.602 Paciente P0244 sale del hospital
+24/05/2021 13:19:49.268 Paciente P0248 vacunado en el puesto 4 por S01
+24/05/2021 13:19:50.053 Paciente P0245 sale del hospital
+24/05/2021 13:19:52.497 Paciente P0250 será vacunado en el puesto 10 por S03
+24/05/2021 13:19:52.497 Auxiliar A1 comienza su descanso
+24/05/2021 13:19:53.541 Paciente P0249 vacunado en el puesto 5 por S09
+24/05/2021 13:19:53.682 Paciente P0246 sale del hospital
+24/05/2021 13:19:54.417 Auxiliar A2 comienza su descanso
+24/05/2021 13:19:56.616 Paciente P0247 sale del hospital
+24/05/2021 13:19:57.561 Paciente P0251 será vacunado en el puesto 6 por S06
+24/05/2021 13:19:57.715 Paciente P0250 vacunado en el puesto 10 por S03
+24/05/2021 13:19:58.194 Paciente P0252 será vacunado en el puesto 9 por S07
+24/05/2021 13:19:59.298 Paciente P0248 sale del hospital
+24/05/2021 13:19:59.791 Paciente P0253 será vacunado en el puesto 8 por S08
+24/05/2021 13:20:00.997 Paciente P0251 vacunado en el puesto 6 por S06
+24/05/2021 13:20:01.995 Paciente P0254 será vacunado en el puesto 7 por S05
+24/05/2021 13:20:03.250 Paciente P0252 vacunado en el puesto 9 por S07
+24/05/2021 13:20:03.544 Paciente P0249 sufre una reaccion y espera sanitario. Puesto: 2
+24/05/2021 13:20:04.069 Paciente P0255 será vacunado en el puesto 2 por S04
+24/05/2021 13:20:04.341 Paciente P0253 vacunado en el puesto 8 por S08
+24/05/2021 13:20:06.682 Paciente P0254 vacunado en el puesto 7 por S05
+24/05/2021 13:20:06.784 Paciente P0256 será vacunado en el puesto 1 por S02
+24/05/2021 13:20:07.718 Paciente P0250 sale del hospital
+24/05/2021 13:20:08.892 Paciente P0255 vacunado en el puesto 2 por S04
+24/05/2021 13:20:09.622 Paciente P0257 será vacunado en el puesto 3 por S10
+24/05/2021 13:20:09.776 Auxiliar A2 comienza su descanso
+24/05/2021 13:20:11.001 Paciente P0251 sale del hospital
+24/05/2021 13:20:11.534 Paciente P0256 vacunado en el puesto 1 por S02
+24/05/2021 13:20:12.916 Paciente P0258 será vacunado en el puesto 10 por S03
+24/05/2021 13:20:13.265 Paciente P0252 sale del hospital
+24/05/2021 13:20:13.666 Paciente P0257 vacunado en el puesto 3 por S10
+24/05/2021 13:20:14.345 Paciente P0253 sale del hospital
+24/05/2021 13:20:16.202 Paciente P0259 será vacunado en el puesto 8 por S08
+24/05/2021 13:20:16.721 Paciente P0254 sale del hospital
+24/05/2021 13:20:16.993 Paciente P0258 vacunado en el puesto 10 por S03
+24/05/2021 13:20:18.159 Paciente P0260 será vacunado en el puesto 2 por S04
+24/05/2021 13:20:18.159 Auxiliar A1 comienza su descanso
+24/05/2021 13:20:18.899 Paciente P0255 sale del hospital
+24/05/2021 13:20:21.223 Paciente P0259 vacunado en el puesto 8 por S08
+24/05/2021 13:20:21.544 Paciente P0256 sale del hospital
+24/05/2021 13:20:22.890 Paciente P0261 será vacunado en el puesto 4 por S01
+24/05/2021 13:20:23.669 Paciente P0257 sale del hospital
+24/05/2021 13:20:23.743 Paciente P0260 vacunado en el puesto 2 por S04
+24/05/2021 13:20:24.082 Paciente P0262 será vacunado en el puesto 5 por S09
+24/05/2021 13:20:27.005 Paciente P0258 sale del hospital
+24/05/2021 13:20:27.379 Paciente P0263 será vacunado en el puesto 1 por S02
+24/05/2021 13:20:27.392 Paciente P0261 vacunado en el puesto 4 por S01
+24/05/2021 13:20:28.280 Auxiliar A2 comienza su descanso
+24/05/2021 13:20:28.643 Paciente P0262 vacunado en el puesto 5 por S09
+24/05/2021 13:20:30.069 Paciente P0264 será vacunado en el puesto 3 por S10
+24/05/2021 13:20:31.110 Paciente P0265 será vacunado en el puesto 6 por S06
+24/05/2021 13:20:31.229 Paciente P0259 sale del hospital
+24/05/2021 13:20:32.546 Paciente P0266 será vacunado en el puesto 7 por S05
+24/05/2021 13:20:33.334 Paciente P0263 vacunado en el puesto 1 por S02
+24/05/2021 13:20:33.765 Paciente P0260 sale del hospital
+24/05/2021 13:20:33.911 Paciente P0267 será vacunado en el puesto 9 por S07
+24/05/2021 13:20:33.996 Paciente P0264 vacunado en el puesto 3 por S10
+24/05/2021 13:20:35.049 Paciente P0265 vacunado en el puesto 6 por S06
+24/05/2021 13:20:36.715 Paciente P0268 será vacunado en el puesto 4 por S01
+24/05/2021 13:20:37.128 Paciente P0267 vacunado en el puesto 9 por S07
+24/05/2021 13:20:37.409 Paciente P0261 sale del hospital
+24/05/2021 13:20:37.933 Paciente P0266 vacunado en el puesto 7 por S05
+24/05/2021 13:20:38.644 Paciente P0262 sale del hospital
+24/05/2021 13:20:39.125 Paciente P0269 será vacunado en el puesto 5 por S09
+24/05/2021 13:20:41.826 Paciente P0270 será vacunado en el puesto 10 por S03
+24/05/2021 13:20:41.826 Auxiliar A1 comienza su descanso
+24/05/2021 13:20:41.867 Paciente P0268 vacunado en el puesto 4 por S01
+24/05/2021 13:20:43.342 Paciente P0263 sale del hospital
+24/05/2021 13:20:44.043 Paciente P0264 sale del hospital
+24/05/2021 13:20:44.369 Paciente P0269 vacunado en el puesto 5 por S09
+24/05/2021 13:20:45.057 Paciente P0265 sale del hospital
+24/05/2021 13:20:46.355 Paciente P0270 vacunado en el puesto 10 por S03
+24/05/2021 13:20:47.138 Paciente P0267 sale del hospital
+24/05/2021 13:20:47.630 Paciente P0271 será vacunado en el puesto 6 por S06
+24/05/2021 13:20:47.696 Auxiliar A2 comienza su descanso
+24/05/2021 13:20:47.963 Paciente P0266 sale del hospital
+24/05/2021 13:20:49.176 Paciente P0272 será vacunado en el puesto 9 por S07
+24/05/2021 13:20:50.099 Paciente P0273 será vacunado en el puesto 8 por S08
+24/05/2021 13:20:51.891 Paciente P0268 sale del hospital
+24/05/2021 13:20:52.362 Paciente P0274 será vacunado en el puesto 7 por S05
+24/05/2021 13:20:53.279 Paciente P0271 vacunado en el puesto 6 por S06
+24/05/2021 13:20:53.566 Paciente P0272 vacunado en el puesto 9 por S07
+24/05/2021 13:20:53.766 Paciente P0275 será vacunado en el puesto 2 por S04
+24/05/2021 13:20:54.372 Paciente P0269 sale del hospital
+24/05/2021 13:20:55.827 Paciente P0273 vacunado en el puesto 8 por S08
+24/05/2021 13:20:55.845 Paciente P0274 vacunado en el puesto 7 por S05
+24/05/2021 13:20:56.289 Paciente P0276 será vacunado en el puesto 1 por S02
+24/05/2021 13:20:56.356 Paciente P0270 sale del hospital
+24/05/2021 13:20:58.268 Paciente P0277 será vacunado en el puesto 3 por S10
+24/05/2021 13:20:58.928 Paciente P0275 vacunado en el puesto 2 por S04
+24/05/2021 13:21:00.969 Paciente P0278 será vacunado en el puesto 10 por S03
+24/05/2021 13:21:00.985 Paciente P0276 vacunado en el puesto 1 por S02
+24/05/2021 13:21:01.702 Paciente P0277 vacunado en el puesto 3 por S10
+24/05/2021 13:21:03.294 Paciente P0271 sale del hospital
+24/05/2021 13:21:03.566 Paciente P0272 sale del hospital
+24/05/2021 13:21:04.988 Paciente P0278 vacunado en el puesto 10 por S03
+24/05/2021 13:21:05.000 Paciente P0279 será vacunado en el puesto 8 por S08
+24/05/2021 13:21:05.832 Paciente P0273 sale del hospital
+24/05/2021 13:21:05.853 Paciente P0274 sale del hospital
+24/05/2021 13:21:07.126 Paciente P0280 será vacunado en el puesto 2 por S04
+24/05/2021 13:21:07.126 Auxiliar A1 comienza su descanso
+24/05/2021 13:21:07.556 Auxiliar A2 comienza su descanso
+24/05/2021 13:21:08.092 Paciente P0279 vacunado en el puesto 8 por S08
+24/05/2021 13:21:08.936 Paciente P0275 sale del hospital
+24/05/2021 13:21:10.991 Paciente P0276 sale del hospital
+24/05/2021 13:21:11.705 Paciente P0277 sale del hospital
+24/05/2021 13:21:12.812 Paciente P0280 vacunado en el puesto 2 por S04
+24/05/2021 13:21:13.531 Paciente P0281 será vacunado en el puesto 4 por S01
+24/05/2021 13:21:14.474 Paciente P0282 será vacunado en el puesto 5 por S09
+24/05/2021 13:21:14.991 Paciente P0278 sale del hospital
+24/05/2021 13:21:15.139 Paciente P0283 será vacunado en el puesto 1 por S02
+24/05/2021 13:21:17.289 Paciente P0284 será vacunado en el puesto 3 por S10
+24/05/2021 13:21:17.527 Paciente P0282 vacunado en el puesto 5 por S09
+24/05/2021 13:21:18.112 Paciente P0279 sale del hospital
+24/05/2021 13:21:18.447 Paciente P0283 vacunado en el puesto 1 por S02
+24/05/2021 13:21:18.986 Paciente P0281 vacunado en el puesto 4 por S01
+24/05/2021 13:21:19.123 Paciente P0285 será vacunado en el puesto 6 por S06
+24/05/2021 13:21:21.367 Paciente P0286 será vacunado en el puesto 9 por S07
+24/05/2021 13:21:22.834 Paciente P0280 sale del hospital
+24/05/2021 13:21:22.930 Paciente P0284 vacunado en el puesto 3 por S10
+24/05/2021 13:21:23.678 Auxiliar A2 comienza su descanso
+24/05/2021 13:21:23.814 Paciente P0287 será vacunado en el puesto 7 por S05
+24/05/2021 13:21:23.927 Paciente P0285 vacunado en el puesto 6 por S06
+24/05/2021 13:21:25.223 Paciente P0288 será vacunado en el puesto 4 por S01
+24/05/2021 13:21:25.767 Paciente P0286 vacunado en el puesto 9 por S07
+24/05/2021 13:21:27.530 Paciente P0282 sale del hospital
+24/05/2021 13:21:27.933 Paciente P0287 vacunado en el puesto 7 por S05
+24/05/2021 13:21:28.058 Paciente P0289 será vacunado en el puesto 5 por S09
+24/05/2021 13:21:28.482 Paciente P0283 sale del hospital
+24/05/2021 13:21:29.004 Paciente P0281 sale del hospital
+24/05/2021 13:21:29.332 Paciente P0290 será vacunado en el puesto 10 por S03
+24/05/2021 13:21:29.332 Auxiliar A1 comienza su descanso
+24/05/2021 13:21:31.169 Paciente P0288 vacunado en el puesto 4 por S01
+24/05/2021 13:21:32.951 Paciente P0284 sale del hospital
+24/05/2021 13:21:33.102 Paciente P0290 vacunado en el puesto 10 por S03
+24/05/2021 13:21:33.420 Paciente P0289 vacunado en el puesto 5 por S09
+24/05/2021 13:21:33.927 Paciente P0285 sale del hospital
+24/05/2021 13:21:35.698 Paciente P0291 será vacunado en el puesto 6 por S06
+24/05/2021 13:21:35.772 Paciente P0286 sale del hospital
+24/05/2021 13:21:36.314 Paciente P0292 será vacunado en el puesto 9 por S07
+24/05/2021 13:21:36.861 Paciente P0293 será vacunado en el puesto 8 por S08
+24/05/2021 13:21:37.947 Paciente P0287 sale del hospital
+24/05/2021 13:21:39.715 Paciente P0294 será vacunado en el puesto 7 por S05
+24/05/2021 13:21:40.922 Paciente P0292 vacunado en el puesto 9 por S07
+24/05/2021 13:21:40.976 Auxiliar A2 comienza su descanso
+24/05/2021 13:21:41.181 Paciente P0288 sale del hospital
+24/05/2021 13:21:41.308 Paciente P0291 vacunado en el puesto 6 por S06
+24/05/2021 13:21:42.277 Paciente P0293 vacunado en el puesto 8 por S08
+24/05/2021 13:21:43.110 Paciente P0290 sale del hospital
+24/05/2021 13:21:43.425 Paciente P0289 sale del hospital
+24/05/2021 13:21:43.483 Paciente P0295 será vacunado en el puesto 2 por S04
+24/05/2021 13:21:43.664 Paciente P0294 vacunado en el puesto 7 por S05
+24/05/2021 13:21:45.516 Paciente P0296 será vacunado en el puesto 1 por S02
+24/05/2021 13:21:47.684 Paciente P0295 vacunado en el puesto 2 por S04
+24/05/2021 13:21:47.684 Sanitario S04 se va a descansar
+24/05/2021 13:21:47.915 Paciente P0297 será vacunado en el puesto 3 por S10
+24/05/2021 13:21:50.096 Paciente P0298 será vacunado en el puesto 10 por S03
+24/05/2021 13:21:50.642 Paciente P0296 vacunado en el puesto 1 por S02
+24/05/2021 13:21:50.642 Sanitario S02 se va a descansar
+24/05/2021 13:21:50.934 Paciente P0292 sale del hospital
+24/05/2021 13:21:51.327 Paciente P0291 sufre una reaccion y espera sanitario. Puesto: 5
+24/05/2021 13:21:52.284 Paciente P0293 sale del hospital
+24/05/2021 13:21:52.951 Sanitario S10 se va a descansar
+24/05/2021 13:21:52.952 Paciente P0297 vacunado en el puesto 3 por S10
+24/05/2021 13:21:53.308 Paciente P0299 será vacunado en el puesto 8 por S08
+24/05/2021 13:21:53.673 Paciente P0294 sale del hospital
+24/05/2021 13:21:55.671 Paciente P0298 vacunado en el puesto 10 por S03
+24/05/2021 13:21:56.882 Paciente P0300 será vacunado en el puesto 2 por 
+24/05/2021 13:21:56.882 Auxiliar A1 comienza su descanso
+24/05/2021 13:21:57.573 Paciente P0299 vacunado en el puesto 8 por S08
+24/05/2021 13:21:57.733 Paciente P0295 sale del hospital
+24/05/2021 13:21:58.054 Sanitario S04 entrando a puesto 2
+24/05/2021 13:21:58.054 Paciente P0159 ha sido atendido en el puesto 12 por S04
+24/05/2021 13:21:58.054 Paciente P0159 sale del hospital
+24/05/2021 13:21:58.977 Paciente P0158 ha sido atendido en el puesto 3 por S02
+24/05/2021 13:21:58.977 Sanitario S02 entrando a puesto 1
+24/05/2021 13:21:58.977 Paciente P0158 sale del hospital
+24/05/2021 13:22:00.160 Auxiliar A2 comienza su descanso
+24/05/2021 13:22:00.662 Paciente P0296 sale del hospital
+24/05/2021 13:22:02.378 Paciente P0301 será vacunado en el puesto 5 por S09
+24/05/2021 13:22:02.954 Paciente P0297 sale del hospital
+24/05/2021 13:22:03.162 Paciente P0221 ha sido atendido en el puesto 20 por S10
+24/05/2021 13:22:03.162 Paciente P0221 sale del hospital
+24/05/2021 13:22:03.163 Sanitario S10 entrando a puesto 3
+24/05/2021 13:22:03.166 Paciente P0302 será vacunado en el puesto 1 por S02
+24/05/2021 13:22:03.756 Paciente P0300 vacunado en el puesto 2 por S04
+24/05/2021 13:22:04.996 Paciente P0303 será vacunado en el puesto 4 por S01
+24/05/2021 13:22:05.492 Paciente P0301 vacunado en el puesto 5 por S09
+24/05/2021 13:22:05.492 Sanitario S09 se va a descansar
+24/05/2021 13:22:05.673 Paciente P0298 sale del hospital
+24/05/2021 13:22:07.140 Paciente P0302 vacunado en el puesto 1 por S02
+24/05/2021 13:22:07.585 Paciente P0299 sale del hospital
+24/05/2021 13:22:08.381 Paciente P0304 será vacunado en el puesto 3 por S10
+24/05/2021 13:22:08.401 Paciente P0303 vacunado en el puesto 4 por S01
+24/05/2021 13:22:08.401 Sanitario S01 se va a descansar
+24/05/2021 13:22:11.109 Paciente P0305 será vacunado en el puesto 6 por S06
+24/05/2021 13:22:11.783 Paciente P0304 vacunado en el puesto 3 por S10
+24/05/2021 13:22:13.338 Paciente P0306 será vacunado en el puesto 9 por S07
+24/05/2021 13:22:13.763 Paciente P0300 sale del hospital
+24/05/2021 13:22:14.721 Sanitario S06 se va a descansar
+24/05/2021 13:22:14.724 Paciente P0305 vacunado en el puesto 6 por S06
+24/05/2021 13:22:15.507 Paciente P0301 sale del hospital
+24/05/2021 13:22:16.505 Paciente P0307 será vacunado en el puesto 7 por S05
+24/05/2021 13:22:16.754 Sanitario S07 se va a descansar
+24/05/2021 13:22:16.754 Paciente P0306 vacunado en el puesto 9 por S07
+24/05/2021 13:22:16.960 Auxiliar A2 comienza su descanso
+24/05/2021 13:22:17.170 Paciente P0302 sale del hospital
+24/05/2021 13:22:17.686 Paciente P0308 será vacunado en el puesto 4 por 
+24/05/2021 13:22:18.425 Paciente P0303 sale del hospital
+24/05/2021 13:22:18.774 Paciente P0309 será vacunado en el puesto 10 por S03
+24/05/2021 13:22:18.924 Sanitario S01 entrando a puesto 5
+24/05/2021 13:22:18.925 Paciente P0237 ha sido atendido en el puesto 7 por S01
+24/05/2021 13:22:18.925 Paciente P0237 sale del hospital
+24/05/2021 13:22:19.876 Paciente P0243 ha sido atendido en el puesto 1 por S09
+24/05/2021 13:22:19.876 Paciente P0243 sale del hospital
+24/05/2021 13:22:19.876 Sanitario S09 entrando a puesto 4
+24/05/2021 13:22:20.409 Paciente P0310 será vacunado en el puesto 5 por S01
+24/05/2021 13:22:20.409 Auxiliar A1 comienza su descanso
+24/05/2021 13:22:21.157 Paciente P0307 vacunado en el puesto 7 por S05
+24/05/2021 13:22:21.157 Sanitario S05 se va a descansar
+24/05/2021 13:22:21.798 Paciente P0304 sale del hospital
+24/05/2021 13:22:23.676 Paciente P0308 vacunado en el puesto 4 por S09
+24/05/2021 13:22:24.094 Paciente P0309 vacunado en el puesto 10 por S03
+24/05/2021 13:22:24.094 Sanitario S03 se va a descansar
+24/05/2021 13:22:24.738 Paciente P0305 sale del hospital
+24/05/2021 13:22:25.231 Paciente P0249 ha sido atendido en el puesto 2 por S06
+24/05/2021 13:22:25.231 Paciente P0249 sale del hospital
+24/05/2021 13:22:25.231 Sanitario S06 entrando a puesto 6
+24/05/2021 13:22:25.415 Paciente P0310 vacunado en el puesto 5 por S01
+24/05/2021 13:22:26.224 Paciente P0311 será vacunado en el puesto 9 por 
+24/05/2021 13:22:26.756 Paciente P0306 sale del hospital
+24/05/2021 13:22:26.913 Paciente P0312 será vacunado en el puesto 6 por S06
+24/05/2021 13:22:27.574 Paciente P0313 será vacunado en el puesto 8 por S08
+24/05/2021 13:22:27.863 Sanitario S05 entrando a puesto 9
+24/05/2021 13:22:27.868 Sanitario S07 entrando a puesto 7
+24/05/2021 13:22:27.868 Paciente P0291 ha sido atendido en el puesto 5 por S07
+24/05/2021 13:22:27.868 Paciente P0291 sale del hospital
+24/05/2021 13:22:30.404 Paciente P0314 será vacunado en el puesto 7 por S07
+24/05/2021 13:22:30.734 Paciente P0313 vacunado en el puesto 8 por S08
+24/05/2021 13:22:30.734 Sanitario S08 se va a descansar
+24/05/2021 13:22:31.157 Paciente P0307 sale del hospital
+24/05/2021 13:22:31.203 Sanitario S03 entrando a puesto 10
+24/05/2021 13:22:31.841 Paciente P0312 vacunado en el puesto 6 por S06
+24/05/2021 13:22:32.610 Paciente P0311 vacunado en el puesto 9 por S05
+24/05/2021 13:22:33.672 Paciente P0315 será vacunado en el puesto 2 por S04
+24/05/2021 13:22:33.700 Paciente P0308 sale del hospital
+24/05/2021 13:22:34.107 Paciente P0309 sale del hospital
+24/05/2021 13:22:34.743 Paciente P0314 vacunado en el puesto 7 por S07
+24/05/2021 13:22:35.093 Paciente P0316 será vacunado en el puesto 1 por S02
+24/05/2021 13:22:35.393 Auxiliar A2 comienza su descanso
+24/05/2021 13:22:35.417 Paciente P0310 sale del hospital
+24/05/2021 13:22:36.793 Paciente P0317 será vacunado en el puesto 3 por S10
+24/05/2021 13:22:37.700 Sanitario S08 entrando a puesto 8
+24/05/2021 13:22:37.758 Paciente P0315 vacunado en el puesto 2 por S04
+24/05/2021 13:22:38.858 Paciente P0318 será vacunado en el puesto 10 por S03
+24/05/2021 13:22:39.040 Paciente P0316 vacunado en el puesto 1 por S02
+24/05/2021 13:22:40.761 Paciente P0313 sale del hospital
+24/05/2021 13:22:41.847 Paciente P0312 sale del hospital
+24/05/2021 13:22:41.912 Paciente P0317 vacunado en el puesto 3 por S10
+24/05/2021 13:22:42.333 Paciente P0319 será vacunado en el puesto 8 por S08
+24/05/2021 13:22:42.515 Paciente P0318 vacunado en el puesto 10 por S03
+24/05/2021 13:22:42.646 Paciente P0311 sale del hospital
+24/05/2021 13:22:43.911 Paciente P0320 será vacunado en el puesto 2 por S04
+24/05/2021 13:22:43.911 Auxiliar A1 comienza su descanso
+24/05/2021 13:22:44.747 Paciente P0314 sale del hospital
+24/05/2021 13:22:46.342 Paciente P0319 vacunado en el puesto 8 por S08
+24/05/2021 13:22:47.766 Paciente P0315 sale del hospital
+24/05/2021 13:22:48.737 Paciente P0320 vacunado en el puesto 2 por S04
+24/05/2021 13:22:49.048 Paciente P0316 sale del hospital
+24/05/2021 13:22:50.242 Paciente P0321 será vacunado en el puesto 1 por S02
+24/05/2021 13:22:50.847 Paciente P0322 será vacunado en el puesto 3 por S10
+24/05/2021 13:22:51.849 Paciente P0323 será vacunado en el puesto 2 por S04
+24/05/2021 13:22:51.913 Paciente P0317 sale del hospital
+24/05/2021 13:22:52.529 Paciente P0318 sale del hospital
+24/05/2021 13:22:52.972 Paciente P0324 será vacunado en el puesto 5 por S01
+24/05/2021 13:22:53.940 Paciente P0322 vacunado en el puesto 3 por S10
+24/05/2021 13:22:54.484 Auxiliar A2 comienza su descanso
+24/05/2021 13:22:54.675 Paciente P0325 será vacunado en el puesto 1 por S02
+24/05/2021 13:22:55.222 Paciente P0323 vacunado en el puesto 2 por S04
+24/05/2021 13:22:56.165 Paciente P0321 vacunado en el puesto 1 por S02
+24/05/2021 13:22:56.361 Paciente P0319 sale del hospital
+24/05/2021 13:22:57.338 Paciente P0326 será vacunado en el puesto 4 por S09
+24/05/2021 13:22:58.195 Paciente P0324 vacunado en el puesto 5 por S01
+24/05/2021 13:22:58.751 Paciente P0320 sale del hospital
+24/05/2021 13:22:58.962 Paciente P0327 será vacunado en el puesto 3 por S10
+24/05/2021 13:23:00.966 Paciente P0328 será vacunado en el puesto 6 por S06
+24/05/2021 13:23:01.431 Paciente P0325 vacunado en el puesto 1 por S02
+24/05/2021 13:23:02.828 Paciente P0327 vacunado en el puesto 3 por S10
+24/05/2021 13:23:03.328 Paciente P0326 vacunado en el puesto 4 por S09
+24/05/2021 13:23:03.949 Paciente P0322 sale del hospital
+24/05/2021 13:23:04.281 Paciente P0329 será vacunado en el puesto 9 por S05
+24/05/2021 13:23:05.240 Paciente P0323 sale del hospital
+24/05/2021 13:23:06.178 Paciente P0321 sale del hospital
+24/05/2021 13:23:06.200 Paciente P0328 vacunado en el puesto 6 por S06
+24/05/2021 13:23:07.867 Paciente P0330 será vacunado en el puesto 5 por S01
+24/05/2021 13:23:07.867 Auxiliar A1 comienza su descanso
+24/05/2021 13:23:08.198 Paciente P0324 sale del hospital
+24/05/2021 13:23:10.148 Paciente P0329 vacunado en el puesto 9 por S05
+24/05/2021 13:23:11.441 Paciente P0325 sale del hospital
+24/05/2021 13:23:11.684 Paciente P0330 vacunado en el puesto 5 por S01
+24/05/2021 13:23:12.736 Auxiliar A2 comienza su descanso
+24/05/2021 13:23:12.859 Paciente P0327 sale del hospital
+24/05/2021 13:23:13.349 Paciente P0326 sale del hospital
+24/05/2021 13:23:14.341 Paciente P0331 será vacunado en el puesto 4 por S09
+24/05/2021 13:23:14.868 Paciente P0332 será vacunado en el puesto 7 por S07
+24/05/2021 13:23:16.203 Paciente P0328 sale del hospital
+24/05/2021 13:23:17.221 Paciente P0333 será vacunado en el puesto 4 por S09
+24/05/2021 13:23:18.483 Paciente P0334 será vacunado en el puesto 10 por S03
+24/05/2021 13:23:18.542 Paciente P0331 vacunado en el puesto 4 por S09
+24/05/2021 13:23:18.699 Paciente P0332 vacunado en el puesto 7 por S07
+24/05/2021 13:23:20.162 Paciente P0329 sale del hospital
+24/05/2021 13:23:20.609 Paciente P0335 será vacunado en el puesto 6 por S06
+24/05/2021 13:23:21.689 Paciente P0330 sale del hospital
+24/05/2021 13:23:21.840 Paciente P0334 vacunado en el puesto 10 por S03
+24/05/2021 13:23:23.830 Paciente P0333 vacunado en el puesto 4 por S09
+24/05/2021 13:23:24.313 Paciente P0336 será vacunado en el puesto 5 por S01
+24/05/2021 13:23:25.532 Paciente P0337 será vacunado en el puesto 9 por S05
+24/05/2021 13:23:26.139 Paciente P0335 vacunado en el puesto 6 por S06
+24/05/2021 13:23:28.562 Paciente P0331 sale del hospital
+24/05/2021 13:23:28.712 Paciente P0332 sale del hospital
+24/05/2021 13:23:28.930 Paciente P0337 vacunado en el puesto 9 por S05
+24/05/2021 13:23:29.525 Paciente P0338 ha acudido sin cita
+24/05/2021 13:23:30.263 Paciente P0336 vacunado en el puesto 5 por S01
+24/05/2021 13:23:31.845 Paciente P0334 sale del hospital
+24/05/2021 13:23:32.384 Paciente P0339 será vacunado en el puesto 7 por S07
+24/05/2021 13:23:32.942 Auxiliar A2 comienza su descanso
+24/05/2021 13:23:33.587 Paciente P0340 será vacunado en el puesto 8 por S08
+24/05/2021 13:23:33.587 Auxiliar A1 comienza su descanso
+24/05/2021 13:23:33.838 Paciente P0333 sale del hospital
+24/05/2021 13:23:36.197 Paciente P0335 sale del hospital
+24/05/2021 13:23:37.919 Paciente P0339 vacunado en el puesto 7 por S07
+24/05/2021 13:23:38.931 Paciente P0337 sale del hospital
+24/05/2021 13:23:39.492 Paciente P0340 vacunado en el puesto 8 por S08
+24/05/2021 13:23:39.510 Paciente P0341 será vacunado en el puesto 10 por S03
+24/05/2021 13:23:40.272 Paciente P0336 sale del hospital
+24/05/2021 13:23:40.459 Paciente P0342 será vacunado en el puesto 6 por S06
+24/05/2021 13:23:41.050 Paciente P0343 será vacunado en el puesto 9 por S05
+24/05/2021 13:23:41.924 Paciente P0344 será vacunado en el puesto 7 por S07
+24/05/2021 13:23:42.477 Paciente P0345 será vacunado en el puesto 8 por S08
+24/05/2021 13:23:43.184 Paciente P0346 será vacunado en el puesto 2 por S04
+24/05/2021 13:23:44.519 Paciente P0347 será vacunado en el puesto 1 por S02
+24/05/2021 13:23:44.839 Paciente P0343 vacunado en el puesto 9 por S05
+24/05/2021 13:23:44.998 Paciente P0341 vacunado en el puesto 10 por S03
+24/05/2021 13:23:45.288 Paciente P0344 vacunado en el puesto 7 por S07
+24/05/2021 13:23:45.499 Paciente P0342 vacunado en el puesto 6 por S06
+24/05/2021 13:23:45.752 Paciente P0345 vacunado en el puesto 8 por S08
+24/05/2021 13:23:46.108 Paciente P0348 será vacunado en el puesto 3 por S10
+24/05/2021 13:23:47.294 Paciente P0346 vacunado en el puesto 2 por S04
+24/05/2021 13:23:47.949 Paciente P0339 sale del hospital
+24/05/2021 13:23:48.450 Paciente P0347 vacunado en el puesto 1 por S02
+24/05/2021 13:23:48.507 Paciente P0349 será vacunado en el puesto 10 por S03
+24/05/2021 13:23:49.510 Paciente P0340 sale del hospital
+24/05/2021 13:23:49.791 Paciente P0350 ha acudido sin cita
+24/05/2021 13:23:49.791 Auxiliar A1 comienza su descanso
+24/05/2021 13:23:51.422 Paciente P0348 vacunado en el puesto 3 por S10
+24/05/2021 13:23:51.925 Auxiliar A2 comienza su descanso
+24/05/2021 13:23:52.924 Paciente P0349 vacunado en el puesto 10 por S03
+24/05/2021 13:23:54.842 Paciente P0343 sale del hospital
+24/05/2021 13:23:55.003 Paciente P0341 sale del hospital
+24/05/2021 13:23:55.298 Paciente P0344 sale del hospital
+24/05/2021 13:23:55.499 Paciente P0342 sale del hospital
+24/05/2021 13:23:55.756 Paciente P0345 sale del hospital
+24/05/2021 13:23:56.264 Paciente P0351 será vacunado en el puesto 8 por S08
+24/05/2021 13:23:57.182 Paciente P0352 será vacunado en el puesto 2 por S04
+24/05/2021 13:23:57.298 Paciente P0346 sale del hospital
+24/05/2021 13:23:57.971 Paciente P0353 será vacunado en el puesto 3 por S10
+24/05/2021 13:23:58.460 Paciente P0347 sale del hospital
+24/05/2021 13:23:59.654 Paciente P0351 vacunado en el puesto 8 por S08
+24/05/2021 13:23:59.721 Paciente P0354 será vacunado en el puesto 2 por S04
+24/05/2021 13:24:01.131 Paciente P0352 vacunado en el puesto 2 por S04
+24/05/2021 13:24:01.427 Paciente P0348 sufre una reaccion y espera sanitario. Puesto: 5
+24/05/2021 13:24:02.569 Paciente P0355 será vacunado en el puesto 1 por S02
+24/05/2021 13:24:02.930 Paciente P0349 sale del hospital
+24/05/2021 13:24:03.524 Paciente P0353 vacunado en el puesto 3 por S10
+24/05/2021 13:24:04.491 Paciente P0356 será vacunado en el puesto 5 por S01
+24/05/2021 13:24:06.267 Paciente P0354 vacunado en el puesto 2 por S04
+24/05/2021 13:24:07.265 Paciente P0357 será vacunado en el puesto 1 por S02
+24/05/2021 13:24:07.674 Paciente P0355 vacunado en el puesto 1 por S02
+24/05/2021 13:24:08.493 Paciente P0358 será vacunado en el puesto 3 por S10
+24/05/2021 13:24:09.414 Auxiliar A2 comienza su descanso
+24/05/2021 13:24:09.664 Paciente P0351 sale del hospital
+24/05/2021 13:24:09.751 Paciente P0356 vacunado en el puesto 5 por S01
+24/05/2021 13:24:10.354 Paciente P0359 será vacunado en el puesto 4 por S09
+24/05/2021 13:24:11.134 Paciente P0352 sale del hospital
+24/05/2021 13:24:12.189 Paciente P0360 será vacunado en el puesto 6 por S06
+24/05/2021 13:24:12.190 Auxiliar A1 comienza su descanso
+24/05/2021 13:24:12.997 Paciente P0357 vacunado en el puesto 1 por S02
+24/05/2021 13:24:13.537 Paciente P0353 sale del hospital
+24/05/2021 13:24:14.053 Paciente P0358 vacunado en el puesto 3 por S10
+24/05/2021 13:24:15.400 Paciente P0359 vacunado en el puesto 4 por S09
+24/05/2021 13:24:16.116 Paciente P0360 vacunado en el puesto 6 por S06
+24/05/2021 13:24:16.273 Paciente P0354 sale del hospital
+24/05/2021 13:24:16.575 Paciente P0361 será vacunado en el puesto 9 por S05
+24/05/2021 13:24:17.677 Paciente P0355 sale del hospital
+24/05/2021 13:24:17.681 Paciente P0362 será vacunado en el puesto 5 por S01
+24/05/2021 13:24:19.760 Paciente P0356 sale del hospital
+24/05/2021 13:24:20.168 Paciente P0361 vacunado en el puesto 9 por S05
+24/05/2021 13:24:20.485 Paciente P0363 será vacunado en el puesto 4 por S09
+24/05/2021 13:24:21.667 Paciente P0362 vacunado en el puesto 5 por S01
+24/05/2021 13:24:22.839 Paciente P0364 será vacunado en el puesto 7 por S07
+24/05/2021 13:24:23.001 Paciente P0357 sale del hospital
+24/05/2021 13:24:24.054 Paciente P0358 sale del hospital
+24/05/2021 13:24:25.153 Paciente P0365 será vacunado en el puesto 10 por S03
+24/05/2021 13:24:25.400 Paciente P0359 sale del hospital
+24/05/2021 13:24:26.118 Paciente P0360 sale del hospital
+24/05/2021 13:24:26.381 Paciente P0363 vacunado en el puesto 4 por S09
+24/05/2021 13:24:26.639 Auxiliar A2 comienza su descanso
+24/05/2021 13:24:27.401 Paciente P0366 será vacunado en el puesto 4 por S09
+24/05/2021 13:24:28.785 Paciente P0364 vacunado en el puesto 7 por S07
+24/05/2021 13:24:29.991 Paciente P0367 será vacunado en el puesto 6 por S06
+24/05/2021 13:24:30.185 Paciente P0361 sale del hospital
+24/05/2021 13:24:31.156 Paciente P0365 vacunado en el puesto 10 por S03
+24/05/2021 13:24:31.222 Paciente P0366 vacunado en el puesto 4 por S09
+24/05/2021 13:24:31.681 Paciente P0362 sale del hospital
+24/05/2021 13:24:33.161 Paciente P0367 vacunado en el puesto 6 por S06
+24/05/2021 13:24:33.618 Paciente P0368 será vacunado en el puesto 9 por S05
+24/05/2021 13:24:36.392 Paciente P0363 sale del hospital
+24/05/2021 13:24:36.618 Paciente P0369 será vacunado en el puesto 5 por S01
+24/05/2021 13:24:37.014 Paciente P0368 vacunado en el puesto 9 por S05
+24/05/2021 13:24:38.798 Paciente P0364 sale del hospital
+24/05/2021 13:24:39.161 Paciente P0370 será vacunado en el puesto 7 por S07
+24/05/2021 13:24:39.161 Auxiliar A1 comienza su descanso
+24/05/2021 13:24:40.309 Paciente P0369 vacunado en el puesto 5 por S01
+24/05/2021 13:24:41.161 Paciente P0365 sale del hospital
+24/05/2021 13:24:41.228 Paciente P0366 sale del hospital
+24/05/2021 13:24:42.503 Paciente P0370 vacunado en el puesto 7 por S07
+24/05/2021 13:24:43.160 Paciente P0371 será vacunado en el puesto 8 por S08
+24/05/2021 13:24:43.162 Paciente P0367 sufre una reaccion y espera sanitario. Puesto: 15
+24/05/2021 13:24:43.878 Auxiliar A2 comienza su descanso
+24/05/2021 13:24:43.972 Paciente P0372 será vacunado en el puesto 9 por S05
+24/05/2021 13:24:45.969 Paciente P0373 será vacunado en el puesto 10 por S03
+24/05/2021 13:24:47.026 Paciente P0368 sale del hospital
+24/05/2021 13:24:47.270 Paciente P0374 será vacunado en el puesto 7 por S07
+24/05/2021 13:24:48.267 Paciente P0371 vacunado en el puesto 8 por S08
+24/05/2021 13:24:49.443 Paciente P0372 vacunado en el puesto 9 por S05
+24/05/2021 13:24:50.193 Paciente P0375 será vacunado en el puesto 6 por S06
+24/05/2021 13:24:50.310 Paciente P0369 sale del hospital
+24/05/2021 13:24:50.547 Paciente P0373 vacunado en el puesto 10 por S03
+24/05/2021 13:24:51.128 Paciente P0374 vacunado en el puesto 7 por S07
+24/05/2021 13:24:51.532 Paciente P0376 será vacunado en el puesto 8 por S08
+24/05/2021 13:24:52.505 Paciente P0370 sale del hospital
+24/05/2021 13:24:53.012 Paciente P0377 será vacunado en el puesto 2 por S04
+24/05/2021 13:24:55.485 Paciente P0375 vacunado en el puesto 6 por S06
+24/05/2021 13:24:56.072 Paciente P0378 será vacunado en el puesto 1 por S02
+24/05/2021 13:24:57.497 Paciente P0376 vacunado en el puesto 8 por S08
+24/05/2021 13:24:57.557 Paciente P0377 vacunado en el puesto 2 por S04
+24/05/2021 13:24:58.269 Paciente P0371 sale del hospital
+24/05/2021 13:24:58.770 Paciente P0379 será vacunado en el puesto 3 por S10
+24/05/2021 13:24:59.478 Paciente P0372 sale del hospital
+24/05/2021 13:24:59.577 Paciente P0378 vacunado en el puesto 1 por S02
+24/05/2021 13:24:59.965 Auxiliar A2 comienza su descanso
+24/05/2021 13:25:00.548 Paciente P0373 sale del hospital
+24/05/2021 13:25:01.142 Paciente P0374 sale del hospital
+24/05/2021 13:25:01.994 Paciente P0380 será vacunado en el puesto 10 por S03
+24/05/2021 13:25:01.994 Auxiliar A1 comienza su descanso
+24/05/2021 13:25:02.627 Paciente P0379 vacunado en el puesto 3 por S10
+24/05/2021 13:25:05.488 Paciente P0375 sale del hospital
+24/05/2021 13:25:06.332 Paciente P0381 será vacunado en el puesto 8 por S08
+24/05/2021 13:25:06.615 Paciente P0380 vacunado en el puesto 10 por S03
+24/05/2021 13:25:07.500 Paciente P0376 sale del hospital
+24/05/2021 13:25:07.560 Paciente P0377 sale del hospital
+24/05/2021 13:25:08.657 Paciente P0382 será vacunado en el puesto 2 por S04
+24/05/2021 13:25:09.579 Paciente P0378 sale del hospital
+24/05/2021 13:25:10.034 Paciente P0381 vacunado en el puesto 8 por S08
+24/05/2021 13:25:10.705 Paciente P0383 será vacunado en el puesto 3 por S10
+24/05/2021 13:25:12.649 Paciente P0379 sale del hospital
+24/05/2021 13:25:13.673 Paciente P0382 vacunado en el puesto 2 por S04
+24/05/2021 13:25:14.177 Paciente P0384 será vacunado en el puesto 2 por S04
+24/05/2021 13:25:16.382 Paciente P0383 vacunado en el puesto 3 por S10
+24/05/2021 13:25:16.625 Paciente P0380 sale del hospital
+24/05/2021 13:25:17.461 Auxiliar A2 comienza su descanso
+24/05/2021 13:25:17.568 Paciente P0385 será vacunado en el puesto 1 por S02
+24/05/2021 13:25:19.354 Paciente P0386 será vacunado en el puesto 5 por S01
+24/05/2021 13:25:19.731 Paciente P0384 vacunado en el puesto 2 por S04
+24/05/2021 13:25:20.037 Paciente P0381 sale del hospital
+24/05/2021 13:25:20.995 Paciente P0385 vacunado en el puesto 1 por S02
+24/05/2021 13:25:22.892 Paciente P0387 será vacunado en el puesto 1 por S02
+24/05/2021 13:25:23.146 Paciente P0386 vacunado en el puesto 5 por S01
+24/05/2021 13:25:23.675 Paciente P0382 sale del hospital
+24/05/2021 13:25:26.037 Paciente P0388 será vacunado en el puesto 3 por S10
+24/05/2021 13:25:26.296 Paciente P0387 vacunado en el puesto 1 por S02
+24/05/2021 13:25:26.395 Paciente P0383 sale del hospital
+24/05/2021 13:25:27.121 Paciente P0389 será vacunado en el puesto 4 por S09
+24/05/2021 13:25:28.791 Paciente P0390 será vacunado en el puesto 6 por S06
+24/05/2021 13:25:28.791 Auxiliar A1 comienza su descanso
+24/05/2021 13:25:29.731 Paciente P0384 sale del hospital
+24/05/2021 13:25:30.996 Paciente P0385 sale del hospital
+24/05/2021 13:25:31.765 Paciente P0389 vacunado en el puesto 4 por S09
+24/05/2021 13:25:31.857 Paciente P0388 vacunado en el puesto 3 por S10
+24/05/2021 13:25:33.158 Paciente P0386 sale del hospital
+24/05/2021 13:25:33.452 Paciente P0391 será vacunado en el puesto 9 por S05
+24/05/2021 13:25:33.761 Paciente P0390 vacunado en el puesto 6 por S06
+24/05/2021 13:25:34.088 Paciente P0392 será vacunado en el puesto 5 por S01
+24/05/2021 13:25:35.708 Paciente P0393 será vacunado en el puesto 4 por S09
+24/05/2021 13:25:36.298 Paciente P0387 sale del hospital
+24/05/2021 13:25:36.388 Auxiliar A2 comienza su descanso
+24/05/2021 13:25:37.277 Paciente P0391 vacunado en el puesto 9 por S05
+24/05/2021 13:25:37.594 Paciente P0394 será vacunado en el puesto 7 por S07
+24/05/2021 13:25:39.921 Paciente P0392 vacunado en el puesto 5 por S01
+24/05/2021 13:25:40.011 Paciente P0393 vacunado en el puesto 4 por S09
+24/05/2021 13:25:41.406 Paciente P0394 vacunado en el puesto 7 por S07
+24/05/2021 13:25:41.765 Paciente P0389 sale del hospital
+24/05/2021 13:25:41.772 Paciente P0395 será vacunado en el puesto 10 por S03
+24/05/2021 13:25:41.861 Paciente P0388 sale del hospital
+24/05/2021 13:25:43.777 Paciente P0390 sale del hospital
+24/05/2021 13:25:44.448 Paciente P0396 será vacunado en el puesto 4 por S09
+24/05/2021 13:25:45.240 Paciente P0395 vacunado en el puesto 10 por S03
+24/05/2021 13:25:47.290 Paciente P0391 sale del hospital
+24/05/2021 13:25:47.858 Paciente P0397 será vacunado en el puesto 6 por S06
+24/05/2021 13:25:49.939 Paciente P0392 sale del hospital
+24/05/2021 13:25:50.012 Paciente P0393 sale del hospital
+24/05/2021 13:25:50.107 Paciente P0396 vacunado en el puesto 4 por S09
+24/05/2021 13:25:50.642 Paciente P0398 será vacunado en el puesto 9 por S05
+24/05/2021 13:25:51.429 Paciente P0394 sale del hospital
+24/05/2021 13:25:51.447 Paciente P0397 vacunado en el puesto 6 por S06
+24/05/2021 13:25:53.703 Paciente P0399 será vacunado en el puesto 5 por S01
+24/05/2021 13:25:53.846 Auxiliar A2 comienza su descanso
+24/05/2021 13:25:55.281 Paciente P0395 sale del hospital
+24/05/2021 13:25:56.375 Paciente P0398 vacunado en el puesto 9 por S05
+24/05/2021 13:25:56.396 Paciente P0400 será vacunado en el puesto 7 por S07
+24/05/2021 13:25:56.396 Auxiliar A1 comienza su descanso
+24/05/2021 13:25:59.557 Paciente P0399 vacunado en el puesto 5 por S01
+24/05/2021 13:25:59.634 Paciente P0400 vacunado en el puesto 7 por S07
+24/05/2021 13:26:00.109 Paciente P0396 sale del hospital
+24/05/2021 13:26:01.449 Paciente P0397 sale del hospital
+24/05/2021 13:26:01.549 Paciente P0401 será vacunado en el puesto 8 por S08
+24/05/2021 13:26:02.548 Paciente P0402 será vacunado en el puesto 9 por S05
+24/05/2021 13:26:05.765 Paciente P0402 vacunado en el puesto 9 por S05
+24/05/2021 13:26:06.053 Paciente P0403 será vacunado en el puesto 10 por S03
+24/05/2021 13:26:06.407 Paciente P0398 sale del hospital
+24/05/2021 13:26:06.553 Paciente P0401 vacunado en el puesto 8 por S08
+24/05/2021 13:26:08.857 Paciente P0404 será vacunado en el puesto 7 por S07
+24/05/2021 13:26:09.225 Paciente P0403 vacunado en el puesto 10 por S03
+24/05/2021 13:26:09.560 Paciente P0399 sale del hospital
+24/05/2021 13:26:09.637 Paciente P0400 sale del hospital
+24/05/2021 13:26:09.907 Paciente P0405 será vacunado en el puesto 6 por S06
+24/05/2021 13:26:12.004 Auxiliar A2 comienza su descanso
+24/05/2021 13:26:13.330 Paciente P0405 vacunado en el puesto 6 por S06
+24/05/2021 13:26:13.417 Paciente P0406 será vacunado en el puesto 8 por S08
+24/05/2021 13:26:13.507 Paciente P0404 vacunado en el puesto 7 por S07
+24/05/2021 13:26:15.777 Paciente P0402 sale del hospital
+24/05/2021 13:26:16.556 Paciente P0401 sale del hospital
+24/05/2021 13:26:17.009 Paciente P0407 será vacunado en el puesto 2 por S04
+24/05/2021 13:26:19.079 Paciente P0406 vacunado en el puesto 8 por S08
+24/05/2021 13:26:19.226 Paciente P0403 sale del hospital
+24/05/2021 13:26:20.105 Paciente P0407 vacunado en el puesto 2 por S04
+24/05/2021 13:26:20.245 Paciente P0408 será vacunado en el puesto 1 por S02
+24/05/2021 13:26:22.558 Paciente P0409 será vacunado en el puesto 3 por S10
+24/05/2021 13:26:23.358 Paciente P0405 sale del hospital
+24/05/2021 13:26:23.553 Paciente P0404 sale del hospital
+24/05/2021 13:26:23.839 Paciente P0408 vacunado en el puesto 1 por S02
+24/05/2021 13:26:25.656 Paciente P0409 vacunado en el puesto 3 por S10
+24/05/2021 13:26:26.173 Paciente P0410 será vacunado en el puesto 10 por S03
+24/05/2021 13:26:26.173 Auxiliar A1 comienza su descanso
+24/05/2021 13:26:29.080 Paciente P0406 sale del hospital
+24/05/2021 13:26:30.106 Paciente P0407 sale del hospital
+24/05/2021 13:26:30.326 Paciente P0410 vacunado en el puesto 10 por S03
+24/05/2021 13:26:31.812 Auxiliar A2 comienza su descanso
+24/05/2021 13:26:32.361 Paciente P0411 será vacunado en el puesto 8 por S08
+24/05/2021 13:26:33.331 Paciente P0412 será vacunado en el puesto 2 por S04
+24/05/2021 13:26:33.840 Paciente P0408 sale del hospital
+24/05/2021 13:26:35.174 Paciente P0413 será vacunado en el puesto 3 por S10
+24/05/2021 13:26:35.658 Paciente P0409 sale del hospital
+24/05/2021 13:26:37.234 Paciente P0411 vacunado en el puesto 8 por S08
+24/05/2021 13:26:37.363 Paciente P0412 vacunado en el puesto 2 por S04
+24/05/2021 13:26:38.469 Paciente P0413 vacunado en el puesto 3 por S10
+24/05/2021 13:26:38.909 Paciente P0414 será vacunado en el puesto 2 por S04
+24/05/2021 13:26:40.329 Paciente P0410 sale del hospital
+24/05/2021 13:26:40.800 Paciente P0415 será vacunado en el puesto 1 por S02
+24/05/2021 13:26:43.091 Paciente P0416 será vacunado en el puesto 5 por S01
+24/05/2021 13:26:44.492 Paciente P0414 vacunado en el puesto 2 por S04
+24/05/2021 13:26:46.570 Paciente P0417 será vacunado en el puesto 1 por S02
+24/05/2021 13:26:46.666 Paciente P0415 vacunado en el puesto 1 por S02
+24/05/2021 13:26:47.234 Paciente P0411 sale del hospital
+24/05/2021 13:26:47.364 Paciente P0412 sale del hospital
+24/05/2021 13:26:47.381 Paciente P0418 será vacunado en el puesto 4 por S09
+24/05/2021 13:26:48.365 Paciente P0416 vacunado en el puesto 5 por S01
+24/05/2021 13:26:48.470 Paciente P0413 sale del hospital
+24/05/2021 13:26:48.733 Paciente P0419 será vacunado en el puesto 3 por S10
+24/05/2021 13:26:49.688 Paciente P0417 vacunado en el puesto 1 por S02
+24/05/2021 13:26:51.624 Auxiliar A2 comienza su descanso
+24/05/2021 13:26:52.355 Paciente P0420 será vacunado en el puesto 6 por S06
+24/05/2021 13:26:52.355 Auxiliar A1 comienza su descanso
+24/05/2021 13:26:53.017 Paciente P0418 vacunado en el puesto 4 por S09
+24/05/2021 13:26:54.098 Paciente P0419 vacunado en el puesto 3 por S10
+24/05/2021 13:26:54.493 Paciente P0414 sale del hospital
+24/05/2021 13:26:56.307 Paciente P0421 será vacunado en el puesto 9 por S05
+24/05/2021 13:26:56.666 Paciente P0415 sale del hospital
+24/05/2021 13:26:57.045 Paciente P0420 vacunado en el puesto 6 por S06
+24/05/2021 13:26:57.113 Paciente P0422 será vacunado en el puesto 5 por S01
+24/05/2021 13:26:58.365 Paciente P0416 sale del hospital
+24/05/2021 13:26:58.751 Paciente P0423 será vacunado en el puesto 4 por S09
+24/05/2021 13:26:59.688 Paciente P0417 sale del hospital
+24/05/2021 13:27:01.339 Paciente P0424 será vacunado en el puesto 7 por S07
+24/05/2021 13:27:01.639 Paciente P0422 vacunado en el puesto 5 por S01
+24/05/2021 13:27:02.067 Paciente P0421 vacunado en el puesto 9 por S05
+24/05/2021 13:27:03.020 Paciente P0418 sale del hospital
+24/05/2021 13:27:03.303 Paciente P0423 vacunado en el puesto 4 por S09
+24/05/2021 13:27:03.593 Paciente P0425 será vacunado en el puesto 10 por S03
+24/05/2021 13:27:04.099 Paciente P0419 sale del hospital
+24/05/2021 13:27:05.441 Paciente P0424 vacunado en el puesto 7 por S07
+24/05/2021 13:27:05.997 Paciente P0426 será vacunado en el puesto 4 por S09
+24/05/2021 13:27:07.052 Paciente P0420 sale del hospital
+24/05/2021 13:27:07.083 Paciente P0427 será vacunado en el puesto 6 por S06
+24/05/2021 13:27:07.125 Paciente P0425 vacunado en el puesto 10 por S03
+24/05/2021 13:27:10.462 Auxiliar A2 comienza su descanso
+24/05/2021 13:27:10.462 Paciente P0428 será vacunado en el puesto 9 por S05
+24/05/2021 13:27:11.297 Paciente P0426 vacunado en el puesto 4 por S09
+24/05/2021 13:27:11.484 Paciente P0429 será vacunado en el puesto 5 por S01
+24/05/2021 13:27:11.665 Paciente P0422 sale del hospital
+24/05/2021 13:27:12.085 Paciente P0421 sale del hospital
+24/05/2021 13:27:12.380 Paciente P0427 vacunado en el puesto 6 por S06
+24/05/2021 13:27:13.326 Paciente P0423 sale del hospital
+24/05/2021 13:27:14.115 Paciente P0430 será vacunado en el puesto 7 por S07
+24/05/2021 13:27:14.115 Auxiliar A1 comienza su descanso
+24/05/2021 13:27:14.978 Paciente P0428 vacunado en el puesto 9 por S05
+24/05/2021 13:27:15.444 Paciente P0424 sale del hospital
+24/05/2021 13:27:15.495 Paciente P0429 vacunado en el puesto 5 por S01
+24/05/2021 13:27:17.136 Paciente P0425 sale del hospital
+24/05/2021 13:27:17.751 Paciente P0430 vacunado en el puesto 7 por S07
+24/05/2021 13:27:18.654 Paciente P0431 será vacunado en el puesto 9 por S05
+24/05/2021 13:27:21.318 Paciente P0426 sale del hospital
+24/05/2021 13:27:21.516 Paciente P0432 será vacunado en el puesto 8 por S08
+24/05/2021 13:27:22.392 Paciente P0427 sale del hospital
+24/05/2021 13:27:23.057 Paciente P0433 será vacunado en el puesto 10 por S03
+24/05/2021 13:27:23.854 Paciente P0431 vacunado en el puesto 9 por S05
+24/05/2021 13:27:24.981 Paciente P0428 sale del hospital
+24/05/2021 13:27:25.501 Paciente P0429 sale del hospital
+24/05/2021 13:27:26.266 Paciente P0432 vacunado en el puesto 8 por S08
+24/05/2021 13:27:26.306 Paciente P0434 será vacunado en el puesto 6 por S06
+24/05/2021 13:27:27.741 Paciente P0435 será vacunado en el puesto 7 por S07
+24/05/2021 13:27:27.759 Paciente P0430 sale del hospital
+24/05/2021 13:27:28.386 Paciente P0433 vacunado en el puesto 10 por S03
+24/05/2021 13:27:29.584 Paciente P0436 será vacunado en el puesto 8 por S08
+24/05/2021 13:27:30.099 Auxiliar A2 comienza su descanso
+24/05/2021 13:27:31.063 Paciente P0434 vacunado en el puesto 6 por S06
+24/05/2021 13:27:31.270 Paciente P0437 será vacunado en el puesto 2 por S04
+24/05/2021 13:27:32.478 Paciente P0438 será vacunado en el puesto 1 por S02
+24/05/2021 13:27:33.233 Paciente P0435 vacunado en el puesto 7 por S07
+24/05/2021 13:27:33.397 Paciente P0436 vacunado en el puesto 8 por S08
+24/05/2021 13:27:33.871 Paciente P0431 sale del hospital
+24/05/2021 13:27:35.827 Paciente P0439 será vacunado en el puesto 3 por S10
+24/05/2021 13:27:36.287 Paciente P0432 sale del hospital
+24/05/2021 13:27:36.794 Paciente P0437 vacunado en el puesto 2 por S04
+24/05/2021 13:27:37.180 Paciente P0438 vacunado en el puesto 1 por S02
+24/05/2021 13:27:38.386 Paciente P0433 sale del hospital
+24/05/2021 13:27:39.293 Paciente P0440 será vacunado en el puesto 10 por S03
+24/05/2021 13:27:39.294 Auxiliar A1 comienza su descanso
+24/05/2021 13:27:39.805 Paciente P0439 vacunado en el puesto 3 por S10
+24/05/2021 13:27:41.075 Paciente P0434 sale del hospital
+24/05/2021 13:27:42.390 Paciente P0440 vacunado en el puesto 10 por S03
+24/05/2021 13:27:43.256 Paciente P0435 sale del hospital
+24/05/2021 13:27:43.399 Paciente P0436 sale del hospital
+24/05/2021 13:27:45.586 Paciente P0441 será vacunado en el puesto 8 por S08
+24/05/2021 13:27:46.795 Paciente P0437 sale del hospital
+24/05/2021 13:27:47.099 Paciente P0442 será vacunado en el puesto 2 por S04
+24/05/2021 13:27:47.206 Paciente P0438 sale del hospital
+24/05/2021 13:27:49.079 Auxiliar A2 comienza su descanso
+24/05/2021 13:27:49.392 Paciente P0441 vacunado en el puesto 8 por S08
+24/05/2021 13:27:49.809 Paciente P0439 sale del hospital
+24/05/2021 13:27:50.313 Paciente P0443 será vacunado en el puesto 3 por S10
+24/05/2021 13:27:52.393 Paciente P0440 sale del hospital
+24/05/2021 13:27:52.802 Sanitario S04 se va a descansar
+24/05/2021 13:27:52.802 Paciente P0442 vacunado en el puesto 2 por S04
+24/05/2021 13:27:53.477 Paciente P0443 vacunado en el puesto 3 por S10
+24/05/2021 13:27:53.477 Sanitario S10 se va a descansar
+24/05/2021 13:27:54.204 Paciente P0444 será vacunado en el puesto 2 por 
+24/05/2021 13:27:57.972 Paciente P0445 será vacunado en el puesto 1 por S02
+24/05/2021 13:27:58.765 Paciente P0446 será vacunado en el puesto 5 por S01
+24/05/2021 13:27:59.393 Paciente P0441 sale del hospital
+24/05/2021 13:28:01.217 Paciente P0445 vacunado en el puesto 1 por S02
+24/05/2021 13:28:01.218 Sanitario S02 se va a descansar
+24/05/2021 13:28:01.626 Paciente P0348 ha sido atendido en el puesto 5 por S04
+24/05/2021 13:28:01.626 Paciente P0348 sale del hospital
+24/05/2021 13:28:01.627 Sanitario S04 entrando a puesto 2
+24/05/2021 13:28:02.435 Paciente P0367 ha sido atendido en el puesto 15 por S10
+24/05/2021 13:28:02.435 Paciente P0367 sale del hospital
+24/05/2021 13:28:02.435 Sanitario S10 entrando a puesto 3
+24/05/2021 13:28:02.581 Paciente P0447 será vacunado en el puesto 1 por 
+24/05/2021 13:28:02.820 Paciente P0442 sale del hospital
+24/05/2021 13:28:03.486 Paciente P0443 sale del hospital
+24/05/2021 13:28:03.877 Paciente P0446 vacunado en el puesto 5 por S01
+24/05/2021 13:28:04.274 Paciente P0448 será vacunado en el puesto 4 por S09
+24/05/2021 13:28:05.881 Paciente P0449 será vacunado en el puesto 3 por S10
+24/05/2021 13:28:06.403 Paciente P0444 vacunado en el puesto 2 por S04
+24/05/2021 13:28:06.460 Sanitario S02 entrando a puesto 1
+24/05/2021 13:28:06.842 Auxiliar A2 comienza su descanso
+24/05/2021 13:28:07.802 Paciente P0448 vacunado en el puesto 4 por S09
+24/05/2021 13:28:07.847 Paciente P0450 será vacunado en el puesto 6 por S06
+24/05/2021 13:28:07.847 Auxiliar A1 comienza su descanso
+24/05/2021 13:28:10.625 Paciente P0447 vacunado en el puesto 1 por S02
+24/05/2021 13:28:11.230 Paciente P0445 sale del hospital
+24/05/2021 13:28:11.257 Paciente P0449 vacunado en el puesto 3 por S10
+24/05/2021 13:28:12.072 Paciente P0451 será vacunado en el puesto 5 por S01
+24/05/2021 13:28:12.493 Paciente P0450 vacunado en el puesto 6 por S06
+24/05/2021 13:28:13.877 Paciente P0446 sale del hospital
+24/05/2021 13:28:14.340 Paciente P0452 será vacunado en el puesto 9 por S05
+24/05/2021 13:28:16.406 Paciente P0444 sale del hospital
+24/05/2021 13:28:17.818 Paciente P0448 sale del hospital
+24/05/2021 13:28:17.977 Paciente P0451 vacunado en el puesto 5 por S01
+24/05/2021 13:28:17.977 Sanitario S01 se va a descansar
+24/05/2021 13:28:18.101 Paciente P0453 será vacunado en el puesto 4 por S09
+24/05/2021 13:28:18.185 Paciente P0452 vacunado en el puesto 9 por S05
+24/05/2021 13:28:20.332 Paciente P0454 será vacunado en el puesto 7 por S07
+24/05/2021 13:28:20.631 Paciente P0447 sale del hospital
+24/05/2021 13:28:21.274 Paciente P0449 sale del hospital
+24/05/2021 13:28:21.380 Paciente P0453 vacunado en el puesto 4 por S09
+24/05/2021 13:28:21.384 Sanitario S09 se va a descansar
+24/05/2021 13:28:22.493 Paciente P0450 sale del hospital
+24/05/2021 13:28:22.593 Paciente P0455 será vacunado en el puesto 10 por S03
+24/05/2021 13:28:23.530 Sanitario S01 entrando a puesto 5
+24/05/2021 13:28:24.120 Paciente P0454 vacunado en el puesto 7 por S07
+24/05/2021 13:28:25.529 Auxiliar A2 comienza su descanso
+24/05/2021 13:28:25.975 Paciente P0456 será vacunado en el puesto 4 por 
+24/05/2021 13:28:26.633 Paciente P0455 vacunado en el puesto 10 por S03
+24/05/2021 13:28:27.862 Paciente P0457 será vacunado en el puesto 6 por S06
+24/05/2021 13:28:27.989 Paciente P0451 sale del hospital
+24/05/2021 13:28:28.189 Paciente P0452 sale del hospital
+24/05/2021 13:28:29.904 Sanitario S09 entrando a puesto 4
+24/05/2021 13:28:30.761 Paciente P0458 será vacunado en el puesto 9 por S05
+24/05/2021 13:28:31.384 Paciente P0453 sale del hospital
+24/05/2021 13:28:32.166 Paciente P0457 vacunado en el puesto 6 por S06
+24/05/2021 13:28:32.166 Sanitario S06 se va a descansar
+24/05/2021 13:28:33.723 Paciente P0459 será vacunado en el puesto 5 por S01
+24/05/2021 13:28:34.094 Paciente P0456 vacunado en el puesto 4 por S09
+24/05/2021 13:28:34.138 Paciente P0454 sale del hospital
+24/05/2021 13:28:35.210 Paciente P0458 vacunado en el puesto 9 por S05
+24/05/2021 13:28:35.210 Sanitario S05 se va a descansar
+24/05/2021 13:28:36.639 Paciente P0455 sale del hospital
+24/05/2021 13:28:37.743 Paciente P0460 será vacunado en el puesto 7 por S07
+24/05/2021 13:28:37.744 Auxiliar A1 comienza su descanso
+24/05/2021 13:28:38.810 Paciente P0459 vacunado en el puesto 5 por S01
+24/05/2021 13:28:40.346 Sanitario S06 entrando a puesto 6
+24/05/2021 13:28:41.440 Sanitario S05 entrando a puesto 9
+24/05/2021 13:28:42.029 Sanitario S07 se va a descansar
+24/05/2021 13:28:42.029 Paciente P0460 vacunado en el puesto 7 por S07
+24/05/2021 13:28:42.185 Paciente P0457 sale del hospital
+24/05/2021 13:28:42.732 Paciente P0461 será vacunado en el puesto 9 por S05
+24/05/2021 13:28:43.567 Paciente P0462 será vacunado en el puesto 8 por S08
+24/05/2021 13:28:44.095 Paciente P0456 sale del hospital
+24/05/2021 13:28:44.284 Paciente P0463 será vacunado en el puesto 10 por S03
+24/05/2021 13:28:44.899 Auxiliar A2 comienza su descanso
+24/05/2021 13:28:45.203 Paciente P0464 será vacunado en el puesto 6 por S06
+24/05/2021 13:28:45.213 Paciente P0458 sale del hospital
+24/05/2021 13:28:46.620 Paciente P0465 será vacunado en el puesto 7 por 
+24/05/2021 13:28:47.248 Paciente P0462 vacunado en el puesto 8 por S08
+24/05/2021 13:28:47.629 Paciente P0461 vacunado en el puesto 9 por S05
+24/05/2021 13:28:48.051 Paciente P0463 vacunado en el puesto 10 por S03
+24/05/2021 13:28:48.051 Sanitario S03 se va a descansar
+24/05/2021 13:28:48.845 Paciente P0459 sale del hospital
+24/05/2021 13:28:49.757 Sanitario S07 entrando a puesto 7
+24/05/2021 13:28:50.110 Paciente P0464 vacunado en el puesto 6 por S06
+24/05/2021 13:28:50.634 Paciente P0466 será vacunado en el puesto 8 por S08
+24/05/2021 13:28:52.040 Paciente P0460 sale del hospital
+24/05/2021 13:28:52.268 Paciente P0467 será vacunado en el puesto 2 por S04
+24/05/2021 13:28:53.272 Paciente P0465 vacunado en el puesto 7 por S07
+24/05/2021 13:28:54.023 Paciente P0468 será vacunado en el puesto 1 por S02
+24/05/2021 13:28:55.877 Paciente P0467 vacunado en el puesto 2 por S04
+24/05/2021 13:28:55.964 Sanitario S03 entrando a puesto 10
+24/05/2021 13:28:56.095 Paciente P0466 vacunado en el puesto 8 por S08
+24/05/2021 13:28:56.095 Sanitario S08 se va a descansar
+24/05/2021 13:28:57.229 Paciente P0469 será vacunado en el puesto 3 por S10
+24/05/2021 13:28:57.262 Paciente P0462 sale del hospital
+24/05/2021 13:28:57.647 Paciente P0461 sale del hospital
+24/05/2021 13:28:58.071 Paciente P0463 sale del hospital
+24/05/2021 13:28:59.233 Paciente P0468 vacunado en el puesto 1 por S02
+24/05/2021 13:29:00.126 Paciente P0464 sale del hospital
+24/05/2021 13:29:01.060 Paciente P0470 será vacunado en el puesto 10 por S03
+24/05/2021 13:29:01.060 Auxiliar A1 comienza su descanso
+24/05/2021 13:29:02.885 Paciente P0469 vacunado en el puesto 3 por S10
+24/05/2021 13:29:03.157 Sanitario S08 entrando a puesto 8
+24/05/2021 13:29:03.274 Paciente P0465 sale del hospital
+24/05/2021 13:29:04.414 Auxiliar A2 comienza su descanso
+24/05/2021 13:29:05.411 Paciente P0470 vacunado en el puesto 10 por S03
+24/05/2021 13:29:05.884 Paciente P0467 sale del hospital
+24/05/2021 13:29:06.109 Paciente P0466 sale del hospital
+24/05/2021 13:29:06.324 Paciente P0471 será vacunado en el puesto 8 por S08
+24/05/2021 13:29:08.053 Paciente P0472 será vacunado en el puesto 2 por S04
+24/05/2021 13:29:09.238 Paciente P0468 sale del hospital
+24/05/2021 13:29:09.641 Paciente P0471 vacunado en el puesto 8 por S08
+24/05/2021 13:29:11.104 Paciente P0472 vacunado en el puesto 2 por S04
+24/05/2021 13:29:11.290 Paciente P0473 será vacunado en el puesto 3 por S10
+24/05/2021 13:29:12.886 Paciente P0469 sale del hospital
+24/05/2021 13:29:13.023 Paciente P0474 será vacunado en el puesto 1 por S02
+24/05/2021 13:29:14.828 Paciente P0475 será vacunado en el puesto 2 por S04
+24/05/2021 13:29:15.327 Paciente P0473 vacunado en el puesto 3 por S10
+24/05/2021 13:29:15.422 Paciente P0470 sale del hospital
+24/05/2021 13:29:18.445 Paciente P0476 será vacunado en el puesto 3 por S10
+24/05/2021 13:29:18.546 Paciente P0474 vacunado en el puesto 1 por S02
+24/05/2021 13:29:19.634 Paciente P0475 vacunado en el puesto 2 por S04
+24/05/2021 13:29:19.652 Paciente P0471 sale del hospital
+24/05/2021 13:29:20.999 Paciente P0477 será vacunado en el puesto 5 por S01
+24/05/2021 13:29:21.107 Paciente P0472 sale del hospital
+24/05/2021 13:29:23.674 Auxiliar A2 comienza su descanso
+24/05/2021 13:29:24.312 Paciente P0476 vacunado en el puesto 3 por S10
+24/05/2021 13:29:24.923 Paciente P0477 vacunado en el puesto 5 por S01
+24/05/2021 13:29:25.318 Paciente P0478 será vacunado en el puesto 2 por S04
+24/05/2021 13:29:25.336 Paciente P0473 sale del hospital
+24/05/2021 13:29:26.117 Paciente P0479 será vacunado en el puesto 1 por S02
+24/05/2021 13:29:28.547 Paciente P0474 sale del hospital
+24/05/2021 13:29:29.050 Paciente P0480 será vacunado en el puesto 4 por S09
+24/05/2021 13:29:29.050 Auxiliar A1 comienza su descanso
+24/05/2021 13:29:29.636 Paciente P0475 sale del hospital
+24/05/2021 13:29:29.799 Paciente P0478 vacunado en el puesto 2 por S04
+24/05/2021 13:29:31.807 Paciente P0479 vacunado en el puesto 1 por S02
+24/05/2021 13:29:33.437 Paciente P0480 vacunado en el puesto 4 por S09
+24/05/2021 13:29:33.848 Paciente P0481 será vacunado en el puesto 1 por S02
+24/05/2021 13:29:34.340 Paciente P0476 sale del hospital
+24/05/2021 13:29:34.699 Paciente P0482 será vacunado en el puesto 3 por S10
+24/05/2021 13:29:34.937 Paciente P0477 sale del hospital
+24/05/2021 13:29:36.756 Paciente P0483 será vacunado en el puesto 6 por S06
+24/05/2021 13:29:38.043 Paciente P0482 vacunado en el puesto 3 por S10
+24/05/2021 13:29:38.581 Paciente P0484 será vacunado en el puesto 5 por S01
+24/05/2021 13:29:38.878 Paciente P0481 vacunado en el puesto 1 por S02
+24/05/2021 13:29:39.800 Paciente P0478 sale del hospital
+24/05/2021 13:29:41.820 Paciente P0479 sale del hospital
+24/05/2021 13:29:41.956 Paciente P0484 vacunado en el puesto 5 por S01
+24/05/2021 13:29:42.346 Paciente P0483 vacunado en el puesto 6 por S06
+24/05/2021 13:29:42.364 Paciente P0485 será vacunado en el puesto 9 por S05
+24/05/2021 13:29:42.854 Auxiliar A2 comienza su descanso
+24/05/2021 13:29:43.449 Paciente P0480 sale del hospital
+24/05/2021 13:29:45.877 Paciente P0486 será vacunado en el puesto 4 por S09
+24/05/2021 13:29:47.143 Paciente P0485 vacunado en el puesto 9 por S05
+24/05/2021 13:29:47.476 Paciente P0487 será vacunado en el puesto 5 por S01
+24/05/2021 13:29:48.048 Paciente P0482 sale del hospital
+24/05/2021 13:29:48.887 Paciente P0481 sale del hospital
+24/05/2021 13:29:51.010 Paciente P0488 será vacunado en el puesto 7 por S07
+24/05/2021 13:29:51.123 Paciente P0487 vacunado en el puesto 5 por S01
+24/05/2021 13:29:51.674 Paciente P0486 vacunado en el puesto 4 por S09
+24/05/2021 13:29:51.958 Paciente P0484 sufre una reaccion y espera sanitario. Puesto: 14
+24/05/2021 13:29:52.348 Paciente P0483 sale del hospital
+24/05/2021 13:29:52.574 Paciente P0489 será vacunado en el puesto 10 por S03
+24/05/2021 13:29:54.785 Paciente P0490 será vacunado en el puesto 4 por S09
+24/05/2021 13:29:54.785 Auxiliar A1 comienza su descanso
+24/05/2021 13:29:55.458 Paciente P0488 vacunado en el puesto 7 por S07
+24/05/2021 13:29:56.335 Paciente P0489 vacunado en el puesto 10 por S03
+24/05/2021 13:29:57.154 Paciente P0485 sale del hospital
+24/05/2021 13:29:59.823 Auxiliar A2 comienza su descanso
+24/05/2021 13:30:00.304 Paciente P0491 será vacunado en el puesto 6 por S06
+24/05/2021 13:30:00.340 Paciente P0490 vacunado en el puesto 4 por S09
+24/05/2021 13:30:01.132 Paciente P0487 sale del hospital
+24/05/2021 13:30:01.291 Paciente P0492 será vacunado en el puesto 4 por S09
+24/05/2021 13:30:01.721 Paciente P0486 sale del hospital
+24/05/2021 13:30:02.262 Paciente P0493 será vacunado en el puesto 9 por S05
+24/05/2021 13:30:03.663 Paciente P0494 será vacunado en el puesto 5 por S01
+24/05/2021 13:30:04.824 Paciente P0492 vacunado en el puesto 4 por S09
+24/05/2021 13:30:05.187 Paciente P0495 será vacunado en el puesto 6 por S06
+24/05/2021 13:30:05.459 Paciente P0488 sale del hospital
+24/05/2021 13:30:06.253 Paciente P0491 vacunado en el puesto 6 por S06
+24/05/2021 13:30:06.337 Paciente P0489 sale del hospital
+24/05/2021 13:30:06.703 Paciente P0493 vacunado en el puesto 9 por S05
+24/05/2021 13:30:07.748 Paciente P0496 será vacunado en el puesto 9 por S05
+24/05/2021 13:30:08.644 Paciente P0494 vacunado en el puesto 5 por S01
+24/05/2021 13:30:10.345 Paciente P0490 sale del hospital
+24/05/2021 13:30:11.578 Paciente P0497 será vacunado en el puesto 7 por S07
+24/05/2021 13:30:11.653 Paciente P0496 vacunado en el puesto 9 por S05
+24/05/2021 13:30:11.775 Paciente P0495 vacunado en el puesto 6 por S06
+24/05/2021 13:30:14.842 Paciente P0492 sale del hospital
+24/05/2021 13:30:14.948 Paciente P0498 será vacunado en el puesto 8 por S08
+24/05/2021 13:30:16.268 Paciente P0491 sale del hospital
+24/05/2021 13:30:16.510 Paciente P0497 vacunado en el puesto 7 por S07
+24/05/2021 13:30:16.709 Paciente P0493 sale del hospital
+24/05/2021 13:30:17.631 Paciente P0499 será vacunado en el puesto 9 por S05
+24/05/2021 13:30:18.283 Paciente P0498 vacunado en el puesto 8 por S08
+24/05/2021 13:30:18.651 Paciente P0494 sale del hospital
+24/05/2021 13:30:18.960 Auxiliar A2 comienza su descanso
+24/05/2021 13:30:21.662 Paciente P0496 sale del hospital
+24/05/2021 13:30:21.777 Paciente P0495 sale del hospital
+24/05/2021 13:30:22.033 Paciente P0500 será vacunado en el puesto 10 por S03
+24/05/2021 13:30:22.033 Auxiliar A1 comienza su descanso
+24/05/2021 13:30:22.258 Paciente P0499 vacunado en el puesto 9 por S05
+24/05/2021 13:30:26.307 Paciente P0501 será vacunado en el puesto 7 por S07
+24/05/2021 13:30:26.524 Paciente P0497 sale del hospital
+24/05/2021 13:30:27.086 Paciente P0500 vacunado en el puesto 10 por S03
+24/05/2021 13:30:28.285 Paciente P0498 sale del hospital
+24/05/2021 13:30:28.954 Paciente P0502 será vacunado en el puesto 6 por S06
+24/05/2021 13:30:30.649 Paciente P0501 vacunado en el puesto 7 por S07
+24/05/2021 13:30:31.170 Paciente P0503 será vacunado en el puesto 7 por S07
+24/05/2021 13:30:32.260 Paciente P0499 sale del hospital
+24/05/2021 13:30:33.864 Paciente P0504 será vacunado en el puesto 2 por S04
+24/05/2021 13:30:34.028 Paciente P0502 vacunado en el puesto 6 por S06
+24/05/2021 13:30:35.603 Paciente P0503 vacunado en el puesto 7 por S07
+24/05/2021 13:30:37.086 Paciente P0500 sale del hospital
+24/05/2021 13:30:37.185 Paciente P0505 será vacunado en el puesto 10 por S03
+24/05/2021 13:30:37.275 Paciente P0504 vacunado en el puesto 2 por S04
+24/05/2021 13:30:38.883 Auxiliar A2 comienza su descanso
+24/05/2021 13:30:40.473 Paciente P0506 será vacunado en el puesto 8 por S08
+24/05/2021 13:30:40.658 Paciente P0501 sufre una reaccion y espera sanitario. Puesto: 15
+24/05/2021 13:30:41.824 Paciente P0505 vacunado en el puesto 10 por S03
+24/05/2021 13:30:42.610 Paciente P0507 será vacunado en el puesto 1 por S02
+24/05/2021 13:30:44.068 Paciente P0502 sale del hospital
+24/05/2021 13:30:45.604 Paciente P0503 sale del hospital
+24/05/2021 13:30:45.850 Paciente P0506 vacunado en el puesto 8 por S08
+24/05/2021 13:30:46.499 Paciente P0508 será vacunado en el puesto 3 por S10
+24/05/2021 13:30:47.004 Paciente P0507 vacunado en el puesto 1 por S02
+24/05/2021 13:30:47.276 Paciente P0504 sale del hospital
+24/05/2021 13:30:48.199 Paciente P0509 será vacunado en el puesto 8 por S08
+24/05/2021 13:30:50.785 Paciente P0508 vacunado en el puesto 3 por S10
+24/05/2021 13:30:51.626 Paciente P0510 será vacunado en el puesto 10 por S03
+24/05/2021 13:30:51.626 Auxiliar A1 comienza su descanso
+24/05/2021 13:30:51.833 Paciente P0505 sale del hospital
+24/05/2021 13:30:53.711 Paciente P0509 vacunado en el puesto 8 por S08
+24/05/2021 13:30:54.816 Paciente P0510 vacunado en el puesto 10 por S03
+24/05/2021 13:30:55.978 Paciente P0506 sale del hospital
+24/05/2021 13:30:57.005 Paciente P0507 sale del hospital
+24/05/2021 13:30:57.911 Paciente P0511 será vacunado en el puesto 8 por S08
+24/05/2021 13:30:58.525 Auxiliar A2 comienza su descanso
+24/05/2021 13:30:58.810 Paciente P0512 será vacunado en el puesto 2 por S04
+24/05/2021 13:30:59.745 Paciente P0513 será vacunado en el puesto 3 por S10
+24/05/2021 13:31:00.786 Paciente P0508 sale del hospital
+24/05/2021 13:31:01.813 Paciente P0512 vacunado en el puesto 2 por S04
+24/05/2021 13:31:01.897 Paciente P0514 será vacunado en el puesto 1 por S02
+24/05/2021 13:31:02.639 Paciente P0511 vacunado en el puesto 8 por S08
